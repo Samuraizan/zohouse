@@ -1,14 +1,11 @@
-Zo Zo Zo 
-<img align="center" src="https://cdn.zo.xyz/gallery/media/images/338ca184-4bb8-4487-b6e1-79a9b3809f0f_20240828105503.gif" width="900" height="620" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img align="center" src="https://cdn.zo.xyz/gallery/media/images/338ca184-4bb8-4487-b6e1-79a9b3809f0f_20240828105503.gif" width="800" height="620" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 ---
+<h1 align="center">ZO HOUSE</h1>
+<h3 align="center">Enthusiastic community bridging Web2 to Web3, <br>connecting builders and businesses, and empowering them to succeed!</h3>
 
-## Zo House: Empowering Users to Bring Their Data to Your Platform
 
-### Watch the Zo House Video:
-[Click here to watch the video on Kapwing](https://www.kapwing.com/e/67907a034316643e2d35fafb)
-
-Zo House allows your users to seamlessly bring their data from any website to yours. 
+clubhouses, with exclusive 24x7 access for Founder Members.
 
 
 ### Quick Links
