@@ -1,5 +1,5 @@
 Zo Zo Zo 
-<img align="center" src="https://static.theprint.in/wp-content/uploads/2023/03/ANI-20230314071244.jpg?compress=true&quality=80&w=800&dpr=1.3" width="900" height="620" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img align="center" src="https://cdn.zo.xyz/gallery/media/images/338ca184-4bb8-4487-b6e1-79a9b3809f0f_20240828105503.gif" width="900" height="620" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 ---
 
@@ -10,8 +10,9 @@ Zo Zo Zo
 
 Zo House allows your users to seamlessly bring their data from any website to yours. 
 
+
 ### Quick Links
-- [Website](https://zohouse.org)  
+- [Website](https://zo.xyz/)  
 - [Documentation](https://docs.zohouse.org/)  
 - [Whitepaper](https://www.zohouse.org/whitepaper)  
 - [Ecosystem](https://www.zohouse.org/ecosystem/)  
