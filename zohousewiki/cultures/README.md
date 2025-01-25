@@ -36,7 +36,7 @@ Music & Entertainment
 
 Nature & Wildlife
 
-Spiritual
+[Spiritual](spirituality.md)
 
 Stories & Journals
 
