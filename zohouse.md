@@ -1,4 +1,5 @@
-<img align="center" src="https://cdn.zo.xyz/gallery/media/images/338ca184-4bb8-4487-b6e1-79a9b3809f0f_20240828105503.gif" width="550" height="420" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<div align="center">
+<img src="https://cdn.zo.xyz/gallery/media/images/338ca184-4bb8-4487-b6e1-79a9b3809f0f_20240828105503.gif" width="550" height="500" frameBorder="0" class="giphy-embed" allowFullScreen></div>
 
 ---
 <h1 align="center">ZO WORLD</h1>
