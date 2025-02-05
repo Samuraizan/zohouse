@@ -36,7 +36,7 @@ Music & Entertainment
 
 Nature & Wildlife
 
-[Spiritual](https://app.gitbook.com/o/KkxO5TQJsWd47vS5geWb/s/76xSuiI2uzLMdTuoiKMA/~/changes/13/cultures/spiritual)
+[Spiritual](spirituality.md)
 
 Stories & Journals
 
