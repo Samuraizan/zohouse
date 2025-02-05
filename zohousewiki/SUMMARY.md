@@ -54,7 +54,6 @@
     * [🏡 Zo House Dubai](zo-nodes/live-nodes/zo-house-dubai.md)
   * [🎨 Zo Studio](zo-nodes/zo-studio.md)
 * [🎭 Cultures](cultures/README.md)
-  * [Spirituality](cultures/spirituality.md)
   * [Spiritual](cultures/spiritual.md)
 * [💰 Economy](economy.md)
 * [🧘‍♀️ Zohmm](zohmm/README.md)
