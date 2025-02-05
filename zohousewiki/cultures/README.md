@@ -6,7 +6,7 @@ coverY: 0
 
 # 🎭 Cultures
 
-Games&#x20;
+Games
 
 Design
 
@@ -36,7 +36,7 @@ Music & Entertainment
 
 Nature & Wildlife
 
-[Spiritual](spirituality.md)
+[Spiritual](spiritual.md)
 
 Stories & Journals
 
