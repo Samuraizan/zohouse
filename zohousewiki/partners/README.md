@@ -1,17 +1,21 @@
+---
+icon: handshake
+---
+
 # Partners
 
-Solana
+[Solana](solana.md)
 
-Polygon
+[Polygon](polygon.md)
 
-Aptos
+[Aptos](aptos.md)
 
-Stellar
+[Stellar](stellar.md)
 
-SUI
+[SUI](sui.md)
 
-Avax
+[Avax](avax.md)
 
-Monad
+[Monad](monad.md)
 
-YUGA Labs\
+[YUGA Labs](yuga-labs.md)
