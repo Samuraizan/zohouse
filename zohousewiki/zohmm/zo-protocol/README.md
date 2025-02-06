@@ -17,7 +17,7 @@ $Zo Issuance & Utility: Outlines distribution schedules, burn-and-pay mechanics,
 
 Event & Participation Rewards: Encourages hosting events, creating content, and other community-driven initiatives that grow Zo World.
 
-#### Governance & Decision-Making : [Guardians](guardians.md)
+#### Governance & Decision-Making : [Guardians](../../guardians.md)
 
 • Founder Member Collaboration: Founder Members (top-tier membership holders) propose or vote on amendments to the protocol in coordination with Zo HQ.
 

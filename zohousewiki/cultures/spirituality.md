@@ -1,4 +1,4 @@
-# Spiritual
+# 🧘‍♂️ Spiritual
 
 **Vision**\
 In the age of Web3 and AI, the timeless quest for self-realization and well-being can take on transformative new dimensions. Age-old spiritual traditions and wisdom must be reinterpreted to align with the challenges and opportunities of the modern world.
