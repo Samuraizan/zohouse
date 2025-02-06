@@ -17,8 +17,7 @@ _“Zo Zo Zo \[City]! We’re bringing onchain culture, creativity, and $Zo to o
 
 • Impact:
 
-This is your public debut—showing that you’re part of a global movement. A confident, inviting tweet can attract initial followers and pique interest.\
-
+This is your public debut—showing that you’re part of a global movement. A confident, inviting tweet can attract initial followers and pique interest.
 
 Step 2: Update Your PFP for Instant Identity
 
@@ -28,20 +27,13 @@ Change your Twitter profile picture to something that visually represents your c
 
 • Why This Matters:
 
-A distinctive PFP helps followers recognize you instantly as they scroll. You’re establishing an identifiable brand, making it easier for newcomers to trust and join your journey.\
-
+A distinctive PFP helps followers recognize you instantly as they scroll. You’re establishing an identifiable brand, making it easier for newcomers to trust and join your journey.
 
 Step 3: Start Dropping Alpha
 
 • Action:
 
 After your first tweet and PFP update, begin teasing upcoming activities, events, or $Zo opportunities. Keep it cryptic and exciting.
-
-• Examples:
-
-_“Who’s ready for our first secret meetup? Keep your $Zo handy!”_
-
-_“Early birds, watch this space—something is about to spark next week.”_
 
 • Goal:
 

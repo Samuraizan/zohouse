@@ -1,6 +1,6 @@
 ---
 description: Alpha testing
-cover: .gitbook/assets/ZZo.jpeg
+cover: ../../.gitbook/assets/ZZo.jpeg
 coverY: 0
 ---
 

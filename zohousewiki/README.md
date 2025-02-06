@@ -11,7 +11,7 @@ Quick Links
 
 • [Founders](founders.md)
 
-• [Guardians](guardians.md)
+• [Guardians](zohmm/zo-protocol/guardians.md)
 
 • [Cities](cities/)
 

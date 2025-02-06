@@ -17,17 +17,17 @@ $Zo Issuance & Utility: Outlines distribution schedules, burn-and-pay mechanics,
 
 Event & Participation Rewards: Encourages hosting events, creating content, and other community-driven initiatives that grow Zo World.
 
-#### Governance & Decision-Making : [Council](../../guardians.md)&#x20;
+#### Governance & Decision-Making : [Guardians](guardians.md)
 
 • Founder Member Collaboration: Founder Members (top-tier membership holders) propose or vote on amendments to the protocol in coordination with Zo HQ.
 
-• Local Autonomy: City Councils adapt local rules within the Zo Protocol’s framework, granting each city creative freedom while maintaining unity.
+• Local Autonomy: Guardians adapt local rules within the Zo Protocol’s framework, granting each city creative freedom while maintaining unity.
 
 #### Compliance & Enforcement
 
 • Zo HQ Oversight: Monitors major protocol adherence, stepping in if fundamental rules or community values risk being undermined.
 
-• Community Feedback Loops: Mechanisms (polls, proposals) where Citizens and Councils can voice concerns or suggest improvements.
+• Community Feedback Loops: Mechanisms (polls, proposals) where Citizens & Guardians can voice concerns or suggest improvements.
 
 ### Evolution of the Protocol
 
