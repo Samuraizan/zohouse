@@ -17,7 +17,7 @@ Provides frameworks, guidance
 
 &#x20;        ▼
 
-City Council: (Local ops, governance in each Zo city; manages daily activities)
+Guardians: (Local ops, governance in each Zo city; manages daily activities)
 
 Engages with local events, feedback, and proposals
 
