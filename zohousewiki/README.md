@@ -21,6 +21,10 @@ Quick Links
 
 • [Cultures](cultures/)
 
+• [Zo Collective](zo-collective.md)
+
+• [Partners](partners/)
+
 • [Economy](economy.md)
 
 • [Zohmm](zohmm/)

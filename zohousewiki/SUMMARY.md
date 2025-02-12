@@ -63,6 +63,7 @@
   * [Avax](partners/avax.md)
   * [Monad](partners/monad.md)
   * [YUGA Labs](partners/yuga-labs.md)
+* [🍯 Zo Collective](zo-collective.md)
 * [💰 Economy](economy.md)
 * [🧘‍♀️ Zohmm](zohmm/README.md)
   * [⭐ Zo Protocol](zohmm/zo-protocol/README.md)
