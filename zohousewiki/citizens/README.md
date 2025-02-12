@@ -7,6 +7,8 @@ coverY: 0
 
 Who &#x20;
 
+{% embed url="https://opensea.io/collection/citizens-of-zo-world" %}
+
 What
 
 Why&#x20;
@@ -15,8 +17,3 @@ How&#x20;
 
 
 
-Onboarding Process&#x20;
-
-Engagement & Contribution Paths
-
-User Journey&#x20;
