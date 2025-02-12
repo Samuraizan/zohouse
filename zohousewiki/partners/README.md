@@ -19,3 +19,5 @@ icon: handshake
 [Monad](monad.md)
 
 [YUGA Labs](yuga-labs.md)
+
+[Starknet](starknet.md)
