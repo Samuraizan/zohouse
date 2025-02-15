@@ -6,9 +6,7 @@ Zo World partnered with **Onboarding Club** to support the **Stellar Indiathon**
 
 #### **Revenue Summary from Stellar Activations:**
 
-| **Activations**           | **Revenue** | **Expenses** |
-| ------------------------- | ----------- | ------------ |
-| Stellar Builder Residency | $7,500      |              |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Activations</strong></td><td><strong>Revenue (In XLM)</strong></td><td><strong>Revenue</strong></td></tr><tr><td>Stellar Builder Residency</td><td>83,334</td><td>$7,500</td></tr></tbody></table>
 
 #### **Moments:**
 

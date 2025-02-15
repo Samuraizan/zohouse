@@ -16,9 +16,7 @@ We collaborated with **Monad India** to host the inaugural **IndiaNad Meetup** i
 
 **Revenue Summary from Monad Activations:**
 
-| Activations     | Revenue | Expenses |
-| --------------- | ------- | -------- |
-| IndiaNad Meetup | $2,500  |          |
+<table><thead><tr><th>Activations</th><th>Revenue</th><th data-hidden>Expenses</th></tr></thead><tbody><tr><td>IndiaNad Meetup</td><td>$2,500</td><td></td></tr></tbody></table>
 
 #### **Photo Gallery:**
 

@@ -30,7 +30,7 @@ Zo World has established a strong, multi-faceted relationship with the Solana ec
 
 {% embed url="https://x.com/SuperteamIN/status/1815626284002861351" %}
 
-1. **Solana Ecosystem Calls in BLRxZo:**
+3. **Solana Ecosystem Calls in BLRxZo:**
 
 * **Overview:** BLRxZo hosted the first **8 ecosystem calls** for SuperteamDAO, creating a dedicated space for Solana developers, community leaders, and ecosystem partners to connect and discuss new initiatives.
 * **Activities:**
@@ -39,18 +39,19 @@ Zo World has established a strong, multi-faceted relationship with the Solana ec
 
 [Social Boost](https://www.notion.so/Social-Boost-13eb319deb85807da20dcb8788555767?pvs=21)
 
-1. **Solana Eco Call at DXBxZo, UAE:**
-   * The partnership extended to Dubai with **Solana Eco Call** at DXBxZo.
+4. **Solana Eco Call at DXBxZo, UAE:**
+
+* The partnership extended to Dubai with **Solana Eco Call** at DXBxZo.&#x20;
 
 **Revenue Summary from Solana Activations:**
 
-| **Events**             | **Revenue** | **Expenses** |
-| ---------------------- | ----------- | ------------ |
-| Cross Chain Clubhouse  | $10,000     |              |
-| Sol Eco Call - DXB     | $300        |              |
-| Sol Eco Call - BLR     | $2,800      |              |
-| Solana Startup Village | $15,000     |              |
-|                        |             |              |
+| **Events**             | **Revenue** **In SOL** |
+| ---------------------- | ---------------------- |
+| Cross Chain Clubhouse  | 583                    |
+| Sol Eco Call - DXB     | 2.12                   |
+| Sol Eco Call - BLR     | 18.66                  |
+| Solana Startup Village | 91.45                  |
+| Total                  | 695.23                 |
 
 **Moonshots:**
 

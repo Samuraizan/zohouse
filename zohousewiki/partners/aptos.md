@@ -22,7 +22,7 @@ DeFi Mania + CodeJam
 * [Apt Casino won the Track Prize](https://zo.questbook.app/dashboard/?grantId=66506b03c1ee73f92cb0eecb\&chainId=10\&proposalId=6676998b64b75d39d0f3ad3a\&isRenderingProposalBody=true)&#x20;
 * Titus Finance was initiated during this HH
 
-Zo World’s collaboration with Aptos began through strategic partnership at DeFi Mania. Later we did one more event with Onbaording club as part of Aptos Code Jame initiative that they are doing with Aptos. This unique alignment was strengthened by Zo World’s connections, as both Naresh (Aptos India Head) and Rishabh (Founder of Onboarding Club) are Zo Founder members.
+Zo World’s collaboration with Aptos began through strategic partnership at DeFi Mania. Later we did one more event with Onbaording club as part of Aptos Code Jame initiative that they were doing with Aptos. This unique alignment was strengthened by Zo World’s connections, as both Naresh (Aptos India Head) and Rishabh (Founder of Onboarding Club) are Zo Founder members.
 
 Together, they played a pivotal role in shaping a series of impactful events that positioned Aptos at the forefront of the Indian developer community and beyond.
 
@@ -31,16 +31,17 @@ Together, they played a pivotal role in shaping a series of impactful events tha
 * Overview: The partnership with Aptos kicked off with Zo World’s DeFi Mania, where Aptos served as the Title Sponsor. The event aimed to drive DeFi innovation and onboard new developers to the Aptos ecosystem through a week-long hacker house at BLRxZo in Bangalore.
 * Activities: Track Sponsorship: Aptos sponsored the DeFi track, providing $10,000 in total funding ($5,000 for operations and $5,000 for track prizes). Project Submissions: The Aptos track received 14 project submissions, with the standout projects being Titus Finance and AptCasino. Both projects continued to build on Aptos, showcasing the event’s success in fostering long-term ecosystem growth.
 
-Aptos Code Jam (Hosted by Onboarding Club - July 28th, BLRxZo):
+**Aptos Code Jam (Hosted by Onboarding Club - July 28th, BLRxZo):**
 
 Overview: In partnership with Onboarding Club, Zo World hosted the Aptos Code Jam at BLRxZo. The event, conducted on July 28th, was a workshop + networking session designed to introduce developers to the Aptos ecosystem, focusing on the Move programming language.
 
 **Revenue Summary from Solana Activations:**
 
-| **Events**     | **Revenue** | **Expenses** |
-| -------------- | ----------- | ------------ |
-| DeFi Mania     | $10,000     |              |
-| Aptos Code Jam | $640        |              |
+| **Events**     | **Revenue (In APT)** |
+| -------------- | -------------------- |
+| DeFi Mania     | 960                  |
+| Aptos Code Jam | 61.5                 |
+| **Total**      | **1021.5**           |
 
 Resources:
 

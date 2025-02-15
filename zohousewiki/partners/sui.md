@@ -1,6 +1,6 @@
 # SUI
 
-Zo World’s collaboration with **Sui** began with a community-focused meetup in May 2023 and has since evolved into a deeper engagement with the upcoming **Sui Hacker House** at BLRxZo. This partnership aims to foster the growth of the Sui ecosystem in India, offering a platform for developers to learn, build, and connect with the Sui community.
+Zo World’s collaboration with **Sui** began with a community-focused meetup in May 2023 and has since evolved into a deeper engagement with a **Sui Hacker House** at BLRxZo on November 2024. This partnership aims to foster the growth of the Sui ecosystem in India, offering a platform for developers to learn, build, and connect with the Sui community.
 
 #### **1. Sui Community Meetup (May 2023, BLRxZo):**
 
@@ -12,9 +12,9 @@ Zo World’s collaboration with **Sui** began with a community-focused meetup in
 * **Networking Session:** The event provided an open space for developers and enthusiasts to interact with the Sui team, ask questions, and share their insights.
 * **Social Media Engagement:** The meetup was actively promoted on social media, with live updates and a post-event recap. [More details can be found here](https://x.com/theharrisonkim/status/1652901488715509761).
 
-#### **2. Upcoming Sui Hacker House (November 2024, BLRxZo):**
+#### **2. Sui Hacker House (November 2024, BLRxZo):**
 
-**Overview:** Following the success of the initial meetup, Zo World is now partnering with Sui to host a **1-week Sui Hacker House** at BLRxZo in the last week of November 2024. This event aims to provide an immersive environment for developers to work on Sui-based projects, receive mentorship, and showcase their innovations.
+**Overview:** Following the success of the initial meetup, Zo World partneres with Sui to host a **1-week Sui Hacker House** at BLRxZo in the last week of November 2024. This event aims to provide an immersive environment for developers to work on Sui-based projects, receive mentorship, and showcase their innovations.
 
 **Details:**
 
@@ -23,7 +23,4 @@ Zo World’s collaboration with **Sui** began with a community-focused meetup in
 
 #### **Revenue Summary from Sui Activations:**
 
-| Activations          | Revenue |
-| -------------------- | ------- |
-| Sui Community Meetup | $2,500  |
-| Hacker House         | $10,000 |
+<table><thead><tr><th>Activations</th><th>Revenue (In SUI)</th><th data-hidden>Revenue</th></tr></thead><tbody><tr><td>Sui Community Meetup</td><td>677.5</td><td>$2,500</td></tr><tr><td>Hacker House</td><td>2817</td><td>$10,000</td></tr><tr><td><strong>Total</strong></td><td><strong>3494.5</strong></td><td></td></tr></tbody></table>

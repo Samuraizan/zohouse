@@ -25,11 +25,7 @@ Building on the momentum of DeFi Mania, Nishu, one of our founder member and an 
 
 **Revenue Summary from Avalanche Activations:**
 
-| City       | Revenue | Expenses |
-| ---------- | ------- | -------- |
-| DeFi Mania | $2,000  |          |
-| Dubai      | $800    | $330     |
-| Total      |         |          |
+<table><thead><tr><th>City</th><th>Revenue (In AVAX)</th><th data-hidden>Revenue</th></tr></thead><tbody><tr><td>DeFi Mania</td><td>79.85</td><td>$2,000</td></tr><tr><td>Tri City Gaming Night</td><td>105.7</td><td>$2400</td></tr><tr><td>BLR - Gaming Night</td><td>29.16</td><td>$700</td></tr><tr><td><strong>Total</strong></td><td><strong>214.72</strong></td><td></td></tr></tbody></table>
 
 **Moments**
 

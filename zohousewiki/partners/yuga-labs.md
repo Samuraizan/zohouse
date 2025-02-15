@@ -17,10 +17,7 @@ A co-hosted event with support from **ApeCoin DAO**, focused on community engage
 
 **Revenue Summary from Yuga Labs Activations:**
 
-| **Events**          | **Revenue** | **Expenses** |
-| ------------------- | ----------- | ------------ |
-| ApeFest - Mar       | $0          | $0           |
-| ApeFest India - Nov | $2000       |              |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Events</strong></td><td><strong>Revenue (In APE)</strong></td><td><strong>Revenue</strong></td><td><strong>Expenses</strong></td></tr><tr><td>ApeFest - Mar</td><td></td><td>$0</td><td>$0</td></tr><tr><td>ApeFest India - Nov</td><td>3108</td><td>$2000</td><td></td></tr><tr><td><strong>Total</strong> </td><td>3108</td><td></td><td></td></tr></tbody></table>
 
 **What Went Well:**
 
