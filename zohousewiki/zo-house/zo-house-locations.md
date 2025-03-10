@@ -1,3 +1,7 @@
+---
+icon: map-location
+---
+
 # Zo House Locations
 
 Zo House, Koramangala&#x20;
