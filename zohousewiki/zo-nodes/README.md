@@ -1,4 +1,5 @@
 ---
+hidden: true
 cover: ../.gitbook/assets/ZZo.jpeg
 coverY: 0
 ---
@@ -13,7 +14,7 @@ A **Zo Node** is a physical extension of **Zo World**, designed to bring people 
 
 Zo Nodes are categorised into two main types based on their scale, purpose, and functionality:
 
-### 1.[ Zo Houses](zo-house/)
+### 1.[ Zo Houses](../zo-house/)
 
 **Definition**: Flagship nodes that act as the central hubs for Zo World in a city.
 

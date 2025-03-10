@@ -1,5 +1,6 @@
 ---
 description: Zo World economy structure & info
+hidden: true
 cover: .gitbook/assets/ZZo.jpeg
 coverY: 0
 ---

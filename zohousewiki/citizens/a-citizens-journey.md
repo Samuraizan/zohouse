@@ -1,5 +1,6 @@
 ---
 description: From Citizen to Founder Member
+hidden: true
 cover: ../.gitbook/assets/ZZo.jpeg
 coverY: 0
 ---

@@ -1,4 +1,5 @@
 ---
+hidden: true
 cover: .gitbook/assets/ZZo.jpeg
 coverY: 0
 ---
@@ -21,7 +22,7 @@ Quick Links
 
 • [Cultures](cultures/)
 
-• [Zo Collective](zo-collective.md)
+• [Zo Collective](broken-reference)
 
 • [Partners](partners/)
 

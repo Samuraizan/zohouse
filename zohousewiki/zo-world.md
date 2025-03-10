@@ -26,7 +26,7 @@ Zo World is a network state for culture, bridging digital communities and physic
 
 ## Context & Vibes
 
-• Zo World embodies a vibrant, dynamic spirit that draws people in with its unique energy. While it fosters a strong sense of belonging, its foundation lies in openness, inclusivity, and celebrating individuality.
+• Zo World embodies a vibrant, dynamic spirit that draws people in with its unique energy. While it fosters a strong sense of belonging, its foundation lies in openness, inclusivity, and celebrating individuality.&#x20;
 
 • “Zo Zo Zo”: More than a phrase, it’s a unifying chant that welcomes participants, sparks conversation, and fuels cultural exchange.
 
@@ -50,6 +50,12 @@ Zo World follows a DAO-like approach, so no single entity holds absolute power. 
 
 ### 3. Citizens
 
+
+
 • Grassroots Energy: Hold Citizens digital collectibles, attend events, propose ideas, and earn/spend $Zo.
 
-• Creative Freedom: From hosting art shows to gaming tournaments, Citizens bring Zo vibes _**life**_ on the ground.
+• Creative Freedom: From hosting art shows to gaming tournaments, Citizens bring Zo vibes _**life**_ on the ground.\
+
+
+### 4. Nodes
+
