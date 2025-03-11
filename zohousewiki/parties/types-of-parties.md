@@ -1,6 +1,6 @@
 ---
 description: 'navigation thru: broader categories ; target audience'
-cover: ../../../.gitbook/assets/ZZo.jpeg
+cover: ../.gitbook/assets/ZZo.jpeg
 coverY: 0
 ---
 
