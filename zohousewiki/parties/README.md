@@ -1,6 +1,5 @@
 ---
 description: Life is a party at Zo
-hidden: true
 cover: ../.gitbook/assets/ZZo.jpeg
 coverY: 0
 ---
