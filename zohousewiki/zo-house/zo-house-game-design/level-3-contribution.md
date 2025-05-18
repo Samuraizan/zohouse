@@ -5,47 +5,48 @@ coverY: 0
 
 # 3️ Level 3: Contribution
 
-At **Level 3**, players actively **contribute to the vibe network** through **community-led operations** and **establishing Zo Nodes.** This is the **only way to mine $Zo tokens outside of Zo Houses**, making contribution an integral part of sustaining and expanding the Zo network. Players become **catalysts for growth**, onboarding new users, and amplifying the cultural and economic impact of the ecosystem.
+**Key Focus**: Become a catalyst for growth by leading community initiatives, creating vibrant hubs, and inspiring others to design their ideal lives. Level 3 empowers you to amplify the Zo House ecosystem, fostering connection, creativity, and impact through leadership and collaboration.
 
-**Key Focus:**
+### Spaces
 
-Empowering players to build and expand the Zo ecosystem by hosting activities, creating decentralised hubs, and fostering community engagement.
+* **Zo Houses** → Community-Led Operations Hub
+* **Nodes** → Local Hubs for Co-Working, Stays, or Social Gatherings
 
-*   **Spaces**
+### How It Works
 
-    **Zo Houses** → Community Led Ops.
+In Level 3, you take an active role in shaping the Zo House community by hosting events, mentoring others, and establishing local hubs. Whether organizing a cultural festival in the Schelling Point or transforming a space into a Node, your contributions strengthen the ecosystem and inspire others to follow their hearts, deepening your own life-design journey.
 
-    **Nodes (Co-Work, Stay, Party Nodes)** → Earning $Zo through decentralised physical hubs
-* **Key Elements**
-  *   **Hosting Community Events (Schelling Point)**
+### Key Activities & Examples
 
-      **Action:** Players organise and lead events like hackathons, cultural festivals, and onboarding workshops.
+#### Hosting Community Events (Schelling Point)
 
-      **Onchain Effect:** Events are ticketed through $Zo, and participation fees contribute to mining tokens for the event organisers.
-  *   **Volunteering for Operations (Flo Zone)**
+* **What You Do**: Organize and lead events like hackathons, cultural festivals, or workshops to bring the community together.
+* **Effect**: Creates shared experiences that spark inspiration and strengthen community bonds, amplifying your leadership impact.
 
-      **Action:** Players take on roles in managing co-working spaces, mentoring new users, or facilitating workshops.
+#### Volunteering for Operations (Flo Zone)
 
-      **Effect:** Contributions are logged onchain, and participants earn $Zo tokens for their time and efforts.
-  *   **Establishing Zo Nodes**
+* **What You Do**: Take on roles like managing co-working spaces, mentoring newcomers, or facilitating creative workshops.
+* **Effect**: Builds a supportive environment for others’ growth, enhancing your sense of purpose and community connection.
 
-      **Action:** Founder members transform their properties into decentralised hubs (Co-Work, Stay, or Party Nodes) to serve as focal points for the Zo ecosystem.
+#### Establishing Zo Nodes
 
-      **Onchain Effect:** All node transactions—like bookings, memberships, or event tickets—generate $Zo tokens for the node owners, creating local hubs of activity.
-  *   **Amplifying Zo Content (Zo Studio)**
+* **What You Do**: Transform a property or space into a local hub (e.g., Co-Work Node, Stay Node, or Party Node) for Zo House activities like workshops, stays, or social events.
+* **Effect**: Expands the Zo House ecosystem, creating focal points for creativity and connection that reflect your vision.
 
-      **Action:** Players create promotional materials, tutorials, or cultural content that onboard users and promote the Zo ethos.
+#### Amplifying Zo Content (Zo Studio)
 
-      **Effect:** Content milestones are rewarded with $Zo tokens, tracked and logged via dynamic NFTs.
-  *   **Cultural Challenges and Quests (Nodes)**
+* **What You Do**: Create promotional materials, tutorials, or cultural content to welcome new members and share the Zo House spirit.
+* **Effect**: Inspires others to join the community, amplifying your creative influence and legacy.
 
-      **Action:** Players and communities participate in localised quests and themed challenges hosted by nodes, encouraging interaction and engagement.
+#### Cultural Challenges and Quests (Nodes)
 
-      **Onchain Effect:** Activities are logged, with participants and node owners earning $Zo tokens for their involvement.
-  *   **Incentives for Contribution**
+* **What You Do**: Design and host localized challenges or themed activities, like art collaborations or sustainability quests, at Nodes.
+* **Effect**: Fosters engagement and cultural richness, empowering participants to explore their passions alongside you.
 
-      **Node Activation Rewards:** Founder members earn $Zo tokens for successfully registering and activating a Zo Node.
+#### Incentives for Contribution
 
-      **Transaction-Based Mining:** A percentage of $Zo transactions within nodes is distributed as mining rewards for contributors.
+* **Node Activation**: Launching a Node establishes you as a community leader, creating a lasting hub for life design.
+* **Community Impact**: Your events and operations attract new members, growing the Zo House network and your influence.
+* **Personal Fulfillment**: Leading initiatives aligns your actions with your values, deepening your own life-design journey.
 
-      **Tiered Engagement Rewards:** Highly active nodes or impactful events earn additional $Zo incentives.
+Level 3 is your chance to lead with purpose, shaping the Zo House community while designing a life of impact and connection. By fostering creativity and collaboration, you inspire others to follow their hearts and build a vibrant, global ecosystem.
