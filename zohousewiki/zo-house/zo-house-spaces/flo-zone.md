@@ -1,11 +1,12 @@
 ---
+description: >-
+  → A co-working space designed for focused work, collaboration, and
+  brainstorming.
 cover: ../../.gitbook/assets/ZZo.jpeg
 coverY: 0
 ---
 
 # 📍 Flo Zone
-
-* → A co-working space designed for focused work, collaboration, and brainstorming.
 
 **Overview**: Flo Zone is Zo House’s dedicated co-working space, a serene hub where creators, entrepreneurs, and dreamers focus, brainstorm, and bring ideas to life. Designed for deep work and collaboration, it’s where visions take shape.
 
