@@ -1,5 +1,6 @@
 ---
 description: Welcome to Namma Bengaluru
+hidden: true
 cover: ../.gitbook/assets/ZZo.jpeg
 coverY: 0
 ---
@@ -87,14 +88,6 @@ Stay in neighbourhoods:&#x20;
 * **Airport to City:** The Kempegowda International Airport is located about 40 kilometers from the city center. Options to reach the city include airport taxis, ride-hailing apps, and Vayu Vajra (air-conditioned airport shuttle buses).
 * **Getting Around:** Bangalore has an extensive network of public and private transport options, including metro trains, buses, auto-rickshaws, and bike/scooter rentals.
 
-### Live Nodes
-
-• Active Zo Nodes with descriptions, services, and contact details.
-
-### [Zo House Koramangala](../zo-nodes/live-nodes/zo-house-koramangala.md)
-
-### [Zo House Whitefield](../zo-nodes/live-nodes/zo-house-whitefield.md)
-
 ### [Submit your Node](https://submitanode.typeform.com/submitazonode)
 
 ### Survival Guide
@@ -168,7 +161,7 @@ Council members -&#x20;
 
 Central content drive: [Events @BLRxZo](https://drive.google.com/drive/folders/1YX1qb78Cq8X4PFeeT412YAePvDaZz9od?usp=drive_link)
 
-## Notable Events
+### Notable Events
 
 [ApeFest2023](https://zo-world.notion.site/apefest2023)
 

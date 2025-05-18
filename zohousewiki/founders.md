@@ -10,7 +10,7 @@ coverY: 0
 Founder Members are the early visionaries who hold special Zo World [Founder NFTs](https://opensea.io/collection/founders-of-zo-world), \
 symbolising their pivotal role in shaping Zo World. They come from diverse backgrounds—entrepreneurs, VCs, developers, artists, and cultural catalysts—but share a common drive to follow their hearts and co-create the future of onchain culture.
 
-{% embed url="https://opensea.io/collection/founders-of-zo-world" %}
+<a href="https://opensea.io/collection/founders-of-zo-world" class="button primary">Founder Membership</a>
 
 ## What
 

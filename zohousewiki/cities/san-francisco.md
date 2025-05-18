@@ -1,5 +1,6 @@
 ---
 description: Step by step guide to tune your city into the Zo World reality
+hidden: true
 cover: ../.gitbook/assets/ZZo.jpeg
 coverY: 0
 ---
