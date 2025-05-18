@@ -9,7 +9,7 @@ Additionally, for the first time ever in India, BLRxZo hosted **ApeFest India**,
 
 More Info: [Ape-fest 23](https://www.notion.so/Ape-fest-23-8c6e2a4a655a45f8b91d4bea87f28d85?pvs=21)
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Type of Partnership:**
 

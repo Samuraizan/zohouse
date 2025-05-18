@@ -4,7 +4,7 @@ Zo World partnered with Polygon along with Dabl Club, Sentient AI and Hadron FC 
 
 We have also hosted a zk hacker house with [zk - Bankai](https://twitter.com/zk_bankai) from **1st - 7th December 2023**. zk - Bankai is a builders community majorly focused on Indian builders. This initiative was powered by Polygon along with Scroll, Starkware, Ingonyama.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Type of Partnership:**
 

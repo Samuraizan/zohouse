@@ -18,7 +18,7 @@ coverY: 0
 
 **Effect**: Ignites joy and strengthens bonds, recharging your creativity and enriching your life design with playful connections.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Zo House SF</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Zo House SF</p></figcaption></figure>
 
 **Example Activities**:
 
@@ -27,3 +27,5 @@ coverY: 0
 * Jam in a music session to express your creative side.
 
 The Degen Lounge is where Zo House’s community comes alive, fueling life design through play and connection.
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>

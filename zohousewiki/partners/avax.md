@@ -2,7 +2,7 @@
 
 Zo World partnered with Avalanche (Avax) for two major initiatives: **DeFi Mania** in Bangalore and the **Tri-City Gaming Nights** across San Francisco, Dubai, and Bangalore by collaborating with Avax Ambassador DAO. The collaboration focused on promoting Avax’s ecosystem to developers and gamers, driving user engagement, and showcasing innovative projects and games.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **1. DeFi Mania - Avax Track Sponsorship**
 
