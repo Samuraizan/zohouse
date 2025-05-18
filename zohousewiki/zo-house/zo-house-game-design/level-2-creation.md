@@ -23,12 +23,6 @@ coverY: 0
 * **Global Vibe Network** → Virtual Community for Global Connections
 * **Inspiration Exchange** → Virtual Forum for High-Impact Conversations
 
-### How It Works
-
-In Level 2, you engage with Zo House’s physical and virtual spaces through activities that elevate your creativity, strengthen your purpose, and expand your impact. From wellness practices in the Bio Hack zone to networking in the Zo House clubhouse, each experience helps you refine your life design, supported by a global community of dreamers and doers.
-
-### Key Activities & Examples
-
 #### Unlocking Longevity (Bio Hack)
 
 * **What You Do**: Explore wellness practices like meditation, yoga, or sauna sessions to optimize your health and energy.

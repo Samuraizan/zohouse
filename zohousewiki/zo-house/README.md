@@ -14,4 +14,8 @@ Every Zo House offers:
 * **Community**: A gathering place to connect with like-minded souls, share experiences, and celebrate diverse cultures, fostering the relationships that enrich your journey.
 * **Transformation**: A nurturing environment where dreams take root, ideas come to life, and you’re equipped to turn your passions into reality.
 
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
 At its core, Zo House is life design at its best—a place where you can pursue what truly matters to you, whether it’s creating art, launching a venture, embracing wellness, or pioneering new technologies. With a global network of spaces and resources, Zo House unlocks endless possibilities, helping you design a life that’s uniquely yours, surrounded by a community that lifts you up.
+
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>

@@ -20,42 +20,31 @@ layout:
 
 # 🌐 Zo World
 
-## What is Zo World?
-
 Zo World is a network state for culture, bridging digital communities and physical spaces. Our core principle—“Follow Your Heart”—encourages freedom, creativity, and collaboration. Within Zo World, you’ll find diverse tribes: founders, artists, travellers, devs, gamers, DAOs, and more, all co-creating a global cultural ecosystem powered by onchain tools and real-world experiences.
 
-## Context & Vibes
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-• Zo World embodies a vibrant, dynamic spirit that draws people in with its unique energy. While it fosters a strong sense of belonging, its foundation lies in openness, inclusivity, and celebrating individuality.&#x20;
+**Zo House: The Heart of Zo World**\
+Zo Houses are tech-enabled clubhouses in cities like Bangalore, San Francisco, and Dubai, offering spaces for connection, work, and play. From the Schelling Point for events to the Liquidity Pool for relaxation, each space empowers you to live with purpose. Explore them at Zo House Spaces.
 
-• “Zo Zo Zo”: More than a phrase, it’s a unifying chant that welcomes participants, sparks conversation, and fuels cultural exchange.
+**Vibes & Community**
 
-• Onchain + IRL Fusion: From digital art to tech enabled co-living spaces, we tie Web3 innovations to tangible events and physical environments—making sure culture isn’t just talked about, but actively lived.
+* **Dynamic Spirit**: Zo World pulses with energy, fostering belonging while celebrating individuality.
+* **“Zo Zo Zo”**: A unifying chant that sparks connection and welcomes all to the community.
+* **Inclusive Fusion**: Blends digital creativity (e.g., art, tech) with real-world experiences (e.g., parties, co-working), making culture a lived reality.
+* **Effect**: Ignites inspiration and builds a global network, helping you design a life true to your heart.
 
-## Governance
+**Who’s Part of Zo World?**\
+Zo World unites diverse tribes—founders, artists, travelers, developers, gamers, and more—each contributing to a collaborative ecosystem. Whether you’re hosting a party in the Degen Lounge or reflecting in the Private Rooms, you’re shaping a vibrant community. See How to Party with Zo for event inspiration.
 
-Zo World follows a DAO-like approach, so no single entity holds absolute power. Instead:
+**How Zo World Works**\
+Zo World thrives on community-driven leadership, ensuring no single voice dominates:
 
-### 1. Founder Members & Zo HQ
-
-• Stewards of the Protocol: Refine or amend the rules, tokenomics, and big-picture vision.
-
-• Thought Leaders: Guide major cultural and strategic initiatives.
-
-### 2. City Guardians
-
-• Local Governance: The Guardians oversee day-to-day operations within their city, ensuring seamless management of events, finances, and partnerships. They are the regional stewards of Zo’s ethos, fostering an environment that embodies collaboration, creativity, and inclusivity.
-
-• Adaptation & Autonomy: Guardians ensure their city aligns with Zo vibes while adapting to local cultural nuances.&#x20;
-
-### 3. Citizens
-
-
-
-• Grassroots Energy: Hold Citizens digital collectibles, attend events, propose ideas, and earn/spend $Zo.
-
-• Creative Freedom: From hosting art shows to gaming tournaments, Citizens bring Zo vibes _**life**_ on the ground.\
-
-
-### 4. Nodes
-
+1. **Founder Members & Zo HQ**
+   * **Role**: Guide the vision, refine the community’s mission, and champion major initiatives.
+2. **City Guardians**
+   * **Role**: Manage local Zo Houses, oversee events, and adapt the Zo vibe to regional cultures.
+3. **Citizens**
+   * **Role**: Bring energy through attending events, proposing ideas, or hosting gatherings, from art shows to fitness challenges.
+4. **Nodes**
+   * **Role**: Local hubs (e.g., co-working spaces, party venues) created by members to extend Zo World’s reach.

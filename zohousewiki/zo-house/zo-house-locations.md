@@ -12,6 +12,8 @@ icon: map-location
 
 [Zo House, SF](https://x.com/SFOxZo/status/1842369115446521864)
 
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Coming soon to your city</p></figcaption></figure>
+
 ### Pop Up Initiatives&#x20;
 
 [DENxZo](https://x.com/DENxZo)&#x20;
@@ -25,4 +27,3 @@ icon: map-location
 [NYCxZo](https://x.com/NYCxZo)
 
 [BARxZo](https://x.com/BARxZo)
-

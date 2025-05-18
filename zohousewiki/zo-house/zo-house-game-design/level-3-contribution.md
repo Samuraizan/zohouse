@@ -12,12 +12,6 @@ coverY: 0
 * **Zo Houses** → Community-Led Operations Hub
 * **Nodes** → Local Hubs for Co-Working, Stays, or Social Gatherings
 
-### How It Works
-
-In Level 3, you take an active role in shaping the Zo House community by hosting events, mentoring others, and establishing local hubs. Whether organizing a cultural festival in the Schelling Point or transforming a space into a Node, your contributions strengthen the ecosystem and inspire others to follow their hearts, deepening your own life-design journey.
-
-### Key Activities & Examples
-
 #### Hosting Community Events (Schelling Point)
 
 * **What You Do**: Organize and lead events like hackathons, cultural festivals, or workshops to bring the community together.

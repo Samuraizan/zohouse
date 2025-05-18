@@ -15,18 +15,9 @@ coverY: 0
 * **Schelling Point** → Events Space (a welcoming hub for newcomers and regulars)
 * **Liquidity Pool** → Swimming Pool and Relaxation Zone
 * **Battle Field** → Turf for Sports and Team Challenges
-* **Zo Cafe** → Community Cafe for Meaningful Connections
 * **Flo Zone** → Co-Working Space for Creativity and Focus
 * **Dorms/Rooms** → Theme-Based Rooms for Rest and Reflection
 * **Multiverse** → Multipurpose Area for Workshops and Creative Collaborations
-* **Bored Room** → Poker and Board Game Lounge
-* **LAN Party Room** → Gaming Hub for Playful Engagement
-
-### How It Works
-
-In Level 1 Level 1, you explore Zo House’s spaces through activities that spark inspiration, foster collaboration, and empower you to shape your ideal life. Each experience—whether brainstorming in the Flo Zone or bonding at the Zo Cafe—ignites your creativity and builds the confidence to pursue your dreams, surrounded by a community that lifts you up.
-
-### Key Activities & Examples
 
 #### Schelling Point (Events Space)
 
