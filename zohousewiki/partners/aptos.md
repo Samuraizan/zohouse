@@ -4,7 +4,7 @@ DeFi Mania + CodeJam
 
 **Event Overview:** The DeFi Mania Hacker House was a week-long initiative hosted at BLRxZo. Aptos, was the Title Sponsor of the event. This partnership aimed to drive innovation, attract new developers to the Aptos ecosystem, and support the growth of DeFi projects.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Event Type:** Hacker House
 
