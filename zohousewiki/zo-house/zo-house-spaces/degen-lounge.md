@@ -28,4 +28,4 @@ coverY: 0
 
 The Degen Lounge is where Zo House’s community comes alive, fueling life design through play and connection.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Zo House Whitefield</p></figcaption></figure>
