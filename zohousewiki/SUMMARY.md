@@ -40,6 +40,7 @@
     * [Parties at Zo House](parties/how-to-party-with-zo/parties-at-zo-house.md)
   * [Epic parties](parties/epic-parties.md)
   * [👯 Types of Parties](parties/types-of-parties.md)
+  * [City Calendars](parties/city-calendars.md)
 * [Partners](partners/README.md)
   * [Solana](partners/solana.md)
   * [Polygon](partners/polygon.md)

@@ -14,7 +14,7 @@ Zo House is a global network of clubhouses where creators, dreamers, and innovat
 Anyone passionate about creativity or growth is welcome! Public spaces like the Schelling Point are open to all, while private areas like Private Rooms may require membership or bookings.
 
 **3. How do I attend a Zo House event?**\
-Browse our events calendar for public gatherings like parties or workshops in spaces like the Multiverse. RSVP via [zo.xyz](https://zo.xyz/) or join open events. Bring your vibe and an open heart!
+Browse our events calendar for public gatherings like parties or workshops in spaces like the Multiverse. Subscribe to your city calendar and rsvp or join open events. Bring your vibe and an open heart!
 
 **4. Can I host a party or event at Zo House?**\
 Yes, host public or private events in spaces like the Degen Lounge or Liquidity Pool. Submit a Typeform request or book via the Zo House app, and our events team will follow up. See [How to Party with Zo](https://samuraizan.gitbook.io/zo-house-wiki/how-to-party-with-zo) for details.
