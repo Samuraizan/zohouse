@@ -1,5 +1,4 @@
 ---
-hidden: true
 cover: .gitbook/assets/ZZo.jpeg
 coverY: 0
 ---
@@ -9,6 +8,8 @@ coverY: 0
 Quick Links
 
 •[ Zo World](zo-world.md)
+
+• [Zo House](zo-house/)
 
 • [Founders](founders.md)
 
