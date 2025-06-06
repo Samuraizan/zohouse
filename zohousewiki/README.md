@@ -4,7 +4,7 @@ cover: .gitbook/assets/ZZo.jpeg
 coverY: 0
 ---
 
-# 🌐 \z/ (Root Overview)
+# 🌐 \z/
 
 Quick Links
 
@@ -12,23 +12,13 @@ Quick Links
 
 • [Founders](founders.md)
 
-• [Guardians](guardians.md)
-
-• [Cities](cities/)
+• [Parties](parties/)
 
 • [Nodes](zo-nodes/)
 
-• [Citizens](citizens/)
-
 • [Cultures](cultures/)
 
-• [Zo Collective](broken-reference)
-
 • [Partners](partners/)
-
-• [Economy](economy.md)
-
-• [Zohmm](zohmm/)
 
 • [FAQ & Glossary](faq-and-glossary.md)
 
