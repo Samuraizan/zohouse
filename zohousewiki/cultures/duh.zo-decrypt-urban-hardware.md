@@ -1,3 +1,7 @@
+---
+icon: head-side-gear
+---
+
 # duh.zo (Decrypt Urban Hardware)
 
 Welcome to **duh.** – the sacred vault where dream-state tech meets unapologetic insurgency. We are an imagineering hacktivist collective on a singular mission: to transform our abode into the dopest hacker house in the multiverse. This isn’t merely a project—it’s a revolution of mind, code, and spirit.
