@@ -19,4 +19,8 @@ icon: party-horn
 * **Plan Collaboratively**: For public events, invite the community to co-create themes or activities; for private parties, curate your guest list and vibe.
 * **Keep It Vibrant**: Design inclusive activities like music or creative jams for public events, or tailored experiences for private gatherings.
 
+{% embed url="https://zostel.typeform.com/to/LgcBfa0M" %}
+Host an Event at Zo
+{% endembed %}
+
 Partying with Zo is about celebrating life, connecting deeply, and designing moments that resonate with your heart.
