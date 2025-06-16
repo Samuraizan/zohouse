@@ -18,6 +18,10 @@ coverY: 0
 * **Creative Tools**: Equipment for prototyping, designing, and creating.
 * **Vibrant Energy**: A space that inspires collaboration and experimentation.
 
+{% embed url="https://youtu.be/xKsDRKVoP2M?si=RLYUnEsbWIOvStUV" %}
+Kratex Set in Zo House Koramangala
+{% endembed %}
+
 **Effect**: Unleashes your imagination and fosters collaboration, empowering you to shape a life driven by creativity and purpose.
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Zo House Koramangala</p></figcaption></figure>
@@ -28,4 +32,6 @@ coverY: 0
 * Join an art jam to create collaborative pieces.
 * Attend a workshop to explore new skills.
 
-The Multiverse is where possibilities collide, fueling your journey to design a life true to your heart.
+{% embed url="https://x.com/deedydas/status/1930289461100982729" %}
+
+The Multiverse is where possibilities collide, fuelling your journey to design a life true to your heart.

@@ -15,3 +15,7 @@ icon: arrows-to-circle
 * [**Full Moon Art Fest**](https://samuraidojo.notion.site/Full-Moon-Art-Fest-1f744d23767a802d944eef8fbd7efe46?pvs=4) : An artist residency in the Multiverse celebrating creativity under the moonlit sky.
 * [**Ape-fest 23**](https://samuraidojo.notion.site/Ape-fest-23-1f744d23767a8028ac76e3682b4eaedc?pvs=4) : An Indian-inspired festival in the Degen Lounge with playful art and music, supported by YUGA Labs.
 * [**Global BTC Pizza Day**](https://samuraidojo.notion.site/BTC-Pizza-Day-1f744d23767a8060a789d2f275f95b37?pvs=4) : A Degen Lounge celebration with pizza, games, and music, hosted with Solana.
+
+{% embed url="https://youtu.be/xKsDRKVoP2M?si=RLYUnEsbWIOvStUV" %}
+Kratex Set in Zo House Koramanagala
+{% endembed %}

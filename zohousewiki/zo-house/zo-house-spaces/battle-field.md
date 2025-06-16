@@ -18,6 +18,10 @@ coverY: 0
 
 **Effect**: Boosts vitality and builds community, enriching your life design with joy and teamwork.
 
+{% embed url="https://www.instagram.com/reel/DF8I0KWTRsO/?igsh=MThvd2Q4cWU5Y251bA==" %}
+Zo House Whitefield
+{% endembed %}
+
 **Example Activities**:
 
 * Join a paddle match to spark friendly rivalry.

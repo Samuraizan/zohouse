@@ -10,6 +10,10 @@ coverY: 0
 
 **Overview**: The Degen Lounge is Zo House’s spirited haven for fun and connection, where creators and dreamers unwind through games, laughter, and bold social vibes. It’s a space to embrace play as a path to creativity and community.
 
+{% embed url="https://x.com/MajumderDibyo/status/1926163483063701894" %}
+Zo House SF
+{% endembed %}
+
 **What It Offers**:
 
 * **Playful Activities**: Board games, poker, video games, and impromptu jam sessions.
@@ -26,6 +30,8 @@ coverY: 0
 * Host a gaming tournament to spark friendly competition.
 * Jam in a music session to express your creative side.
 
-The Degen Lounge is where Zo House’s community comes alive, fueling life design through play and connection.
+{% embed url="https://x.com/itsNikku876/status/1928678517950066860" %}
+Zo House Whitefiled
+{% endembed %}
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Zo House Whitefield</p></figcaption></figure>
+The Degen Lounge is where Zo House’s community comes alive, fuelling life design through play and connection.

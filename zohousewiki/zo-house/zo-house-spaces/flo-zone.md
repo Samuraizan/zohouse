@@ -18,9 +18,11 @@ coverY: 0
 * **Collaborative Tools**: Whiteboards, meeting pods, and tech for brainstorming.
 * **Idea Incubator**: A setting for pitching and refining concepts with peers.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Zo House SF</p></figcaption></figure>
-
 **Effect**: Sharpens focus and fuels innovation, empowering you to turn passions into reality and design a life of purpose.
+
+{% embed url="https://x.com/MajumderDibyo/status/1928744962297925925" %}
+Zo House SF
+{% endembed %}
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Zo House Whitefield</p></figcaption></figure>
 

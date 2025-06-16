@@ -15,6 +15,11 @@ coverY: 0
 **What It Offers**:
 
 * **Themed Ambiance**: Rooms with distinct styles to inspire calm and creativity.
+
+{% embed url="https://mirror.xyz/samuraizan.eth/m8aUVXgWROtrWhbxuhKgUYex_9VrcwS6lwsGMNevw68" %}
+Art Fest within a dorm room in Zo House Koramangala
+{% endembed %}
+
 * **Private Comfort**: Quiet spaces for rest and personal reflection.
 * **Creative Nooks**: Areas for journaling or sketching ideas.
 
@@ -27,5 +32,7 @@ coverY: 0
 * Journal in a nature-themed room to set intentions.
 * Rest in a cozy dorm to recharge energy.
 * Sketch life goals in a quiet nook.
+
+{% embed url="https://x.com/algodevs/status/1934002671440023703" %}
 
 The Dorms are where rest meets reflection, empowering you to design a life true to your heart.
