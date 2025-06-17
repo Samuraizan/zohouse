@@ -8,6 +8,8 @@ coverY: 0
 
 Zo House is more than a clubhouse—it’s a sanctuary where dreamers, creators, and builders come together to design their ideal lives. Operating as a 24/7 cultural engine, Zo House empowers individuals to follow their hearts, blending innovation, community, and personal fulfillment into a vibrant, dynamic space.
 
+<figure><img src="../.gitbook/assets/Screenshot 2025-06-17 at 4.57.22 PM.png" alt=""><figcaption><p>Nikhil Kamath at Zo House SF</p></figcaption></figure>
+
 Every Zo House offers:
 
 * **Inspiration**: A gateway to explore cutting-edge ideas in technology, art, entrepreneurship, wellness, and beyond—where you can shape the life you envision.
