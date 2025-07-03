@@ -4,10 +4,8 @@ Welcome to the official BLRxZo Wiki – your **operational toolkit and cultural 
 
 ### Location & Booking
 
-* **Address**: [View on Maps](https://share.google/8mBGpSR0GKvIn2xib)
-
-{% embed url="https://share.google/8mBGpSR0GKvIn2xib" %}
-
+* **Address**:\
+  &#x20;[View on Maps](https://share.google/8mBGpSR0GKvIn2xib)
 * **Booking Link**: [Zostel Listing](https://www.zostel.com/house/bangalore/zo-house-koramangala-bnghO812) | [Config ](https://docs.google.com/spreadsheets/d/1RExg6fvu-Wwb6Z9TZuNgJh6ooUN6TT3r2f25xVPHR_Y/edit?gid=442789403#gid=442789403)|| [DCF](https://docs.google.com/spreadsheets/d/1jYR9X5q6uDxyMADiyBGiEkjuPQERA3TJNrvxn98ecLU/edit?gid=13008960#gid=13008960)
 * **Pricing**: [View Pricing Sheet](https://jealous-brass-35b.notion.site/Zo-House-Koramangala-Pricing-2249fbf32f0280659e87d2182bb4b968)
 
@@ -29,8 +27,6 @@ Welcome to the official BLRxZo Wiki – your **operational toolkit and cultural 
 * **Event Proposals**: [Typeform Submission](https://zostel.typeform.com/to/LgcBfa0M)
 * **PnL & Invoices**: [Google Sheet](https://docs.google.com/spreadsheets/d/1VKZKfKrfF2qNEnqvuttQwdNDsqueUUtGE0pzq8wnL2Y/edit?usp=drive_link)
 
-
-
 ### Payments
 
 * **Registration Details**:\
@@ -38,8 +34,9 @@ Welcome to the official BLRxZo Wiki – your **operational toolkit and cultural 
   ZOWORLD LIMITED\
   12th-13th Floor, Anna Infra’s Signature, Koramangala, Bengaluru - 560095
 * **UPI QR Code**: _(Available at property)_
-* <img src="../../.gitbook/assets/Screenshot 2025-07-03 at 2.33.55 PM.png" alt="" data-size="original">
-* #### GST Certificate and additional documents in[ DATA ROOM.](https://drive.google.com/drive/folders/1lUIcCte7tsa_arEkVf8V5mPbrT5WL-e1?usp=drive_link)
+
+GST Certificate and additional documents in[ DATA ROOM.](https://drive.google.com/drive/folders/1lUIcCte7tsa_arEkVf8V5mPbrT5WL-e1?usp=drive_link)
+
 * **Crypto Payments**:\
   ENS: `Blrxzo.eth`\
   EVM: `0x53A21df4B64f8e909b27c79126295c15262e681D`\
@@ -47,7 +44,7 @@ Welcome to the official BLRxZo Wiki – your **operational toolkit and cultural 
 
 📩 _After payment, send the transaction link via Telegram or to the House Captain._
 
-
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Solana Address </td><td><a href="../../.gitbook/assets/image (24).png">image (24).png</a></td></tr><tr><td>ETH/EVM Address</td><td><a href="../../.gitbook/assets/image (23).png">image (23).png</a></td></tr><tr><td>UPI QR </td><td><a href="../../.gitbook/assets/Screenshot 2025-07-03 at 2.33.55 PM.png">Screenshot 2025-07-03 at 2.33.55 PM.png</a></td></tr></tbody></table>
 
 ### Asset Folders
 
@@ -55,17 +52,9 @@ Welcome to the official BLRxZo Wiki – your **operational toolkit and cultural 
 * **Vibes Content**: [Photos & Videos](https://drive.google.com/drive/folders/1NgZFNWpwhfnT0U9k4KGo6YT9sMqWHUzd?usp=drive_link)
 * **Founder Interviews**: [Drive Folder](https://drive.google.com/drive/folders/1L8wrZv4ipgaddIBx6uFysASOT-C3pbK6?usp=drive_link)
 
-
-
-{% embed url="https://zostel.slack.com/files/U07LDUKH5BQ/F094G0GTRUZ/blrxzo_map.pdf" %}
-
 Register incoming visitors efficiently at Zo House Visitor Form, a streamlined process to track entries and ensure smooth operations.
 
-{% embed url="https://zostel.typeform.com/blrxzovisitor" %}
-
-
-
-
+[BLRxZo Visitor form](https://zostel.typeform.com/blrxzovisitor)
 
 {% columns %}
 {% column width="41.66666666666667%" %}
@@ -73,17 +62,13 @@ Register incoming visitors efficiently at Zo House Visitor Form, a streamlined p
 
 
 
-#### Event Calendar: Coordinate events with the dynamic BLRxZo Events Calendar, covering hackathons, mixers, and parties.
-
-#### Check in registered guests and curate the best vibes.
+**Event Calendar:**
 
 
 
 #### Event Proposals: Plan and approve events by submitting ideas at Typeform and reviewing the BLRxZo Deck for strategic alignment.
 
-
-
-
+Coordinate events with the dynamic BLRxZo Events Calendar, covering hackathons, mixers, and parties. Check in registered guests and curate the best vibes.
 
 
 
@@ -124,12 +109,8 @@ Guest Interviews: Gain insights from founders at Google Drive Folder to align wi
 
 
 
-
-
-#### Follow your heart and shape your Zo House experience—reach out for support or updates! Dive deeper into Founders of Zo World & Zo House Game Design.
-
-\
-
+Follow your heart and shape your Zo House experience—reach out for support or updates!\
+Dive deeper into Founders of Zo World & Zo House Game Design.
 
 ### Tools
 
@@ -140,10 +121,7 @@ Cameras: EZVIZ - [Android](https://play.google.com/store/apps/details?id=com.ezv
 Led Lights: WLED + - [Android](https://play.google.com/store/apps/details?id=com.pixelheart.wledplus\&hl=en_IN) || [IOS](https://apps.apple.com/us/app/wled/id6474789652)\
 Community Chat: [Telegram](https://t.me/BLRxZoLive)\
 Eezee : [Booking manager](https://zostel.slack.com/archives/C07MHQZCXHD/p1751012100154319)\
-Portals: [https://sfoxzo.pisignage.com/](https://sfoxzo.pisignage.com/)\
-
-
-
+Portals: [https://sfoxzo.pisignage.com/](https://sfoxzo.pisignage.com/)
 {% endcolumn %}
 
 {% column %}
@@ -151,13 +129,13 @@ Portals: [https://sfoxzo.pisignage.com/](https://sfoxzo.pisignage.com/)\
 
 {% embed url="https://lu.ma/blrxzo" %}
 
-
-
-
-
-
-
 {% embed url="https://zostel.typeform.com/to/LgcBfa0M" %}
+
+
+
+
+
+
 
 {% embed url="https://docs.google.com/spreadsheets/d/1VKZKfKrfF2qNEnqvuttQwdNDsqueUUtGE0pzq8wnL2Y/edit?usp=drive_link" %}
 
