@@ -53,6 +53,7 @@
   * [Avax](partners/avax.md)
   * [Monad](partners/monad.md)
   * [YUGA Labs](partners/yuga-labs.md)
+  * [Algorand](partners/algorand.md)
   * [Starknet](partners/starknet.md)
 * [👑 Founders](founders.md)
 * [🎭 Cultures](cultures/README.md)
