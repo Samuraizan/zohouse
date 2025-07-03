@@ -13,11 +13,9 @@ Quick Links
 
 • [Founders](founders.md)
 
-• [Parties](parties/)
-
-• [Nodes](zo-nodes/)
-
 • [Cultures](cultures/)
+
+• [Parties](parties/)
 
 • [Partners](partners/)
 
