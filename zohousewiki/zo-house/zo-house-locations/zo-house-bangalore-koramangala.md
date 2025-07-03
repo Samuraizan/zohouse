@@ -13,7 +13,11 @@ Welcome to the official BLRxZo Wiki – your **operational toolkit and cultural 
 
 * [Instagram – @zohouseofficial](https://www.instagram.com/zohouseofficial/)
 * [YouTube – Zo House Playlist](https://www.youtube.com/playlist?list=PLtbSwFnJdjOE_jNVYxM_eAj6KfWOZbDIO)
-* [BLRxZo Map PDF](https://zostel.slack.com/files/U07LDUKH5BQ/F094G0GTRUZ/blrxzo_map.pdf)
+* [BLRxZo Map PDF](https://drive.google.com/file/d/1AoayMkLPj5QWz_hFawVHAi1M0RyfufRf/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1AoayMkLPj5QWz_hFawVHAi1M0RyfufRf/view?usp=drive_link" %}
+BLRxZo Map PDF
+{% endembed %}
 
 ### Pricing:
 
