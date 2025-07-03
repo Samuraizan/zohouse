@@ -1,3 +1,7 @@
+---
+description: Penthouse in the heart of Bangalore
+---
+
 # Zo House Bangalore (Koramangala)
 
 Welcome to the official BLRxZo Wiki – your **operational toolkit and cultural guide** for life at Zo House Koramangala. Whether you're a Founder Member, guest, or staff, this guide has everything you need to thrive in our creative, community-powered ecosystem.
@@ -6,7 +10,7 @@ Welcome to the official BLRxZo Wiki – your **operational toolkit and cultural 
 
 * **Address**:\
   &#x20;[View on Maps](https://share.google/8mBGpSR0GKvIn2xib)
-* **Booking Link**: [Zostel Listing](https://www.zostel.com/house/bangalore/zo-house-koramangala-bnghO812) | [Config ](https://docs.google.com/spreadsheets/d/1RExg6fvu-Wwb6Z9TZuNgJh6ooUN6TT3r2f25xVPHR_Y/edit?gid=442789403#gid=442789403)|| [DCF](https://docs.google.com/spreadsheets/d/1jYR9X5q6uDxyMADiyBGiEkjuPQERA3TJNrvxn98ecLU/edit?gid=13008960#gid=13008960)
+* **Booking Link**: [Zostel Listing](https://zostel.com) | [Config ](https://docs.google.com/spreadsheets/d/1RExg6fvu-Wwb6Z9TZuNgJh6ooUN6TT3r2f25xVPHR_Y/edit?gid=442789403#gid=442789403)|| [DCF](https://docs.google.com/spreadsheets/d/1jYR9X5q6uDxyMADiyBGiEkjuPQERA3TJNrvxn98ecLU/edit?gid=13008960#gid=13008960)
 * **Pricing**: [View Pricing Sheet](https://jealous-brass-35b.notion.site/Zo-House-Koramangala-Pricing-2249fbf32f0280659e87d2182bb4b968)
 
 ### Socials & Media
@@ -14,14 +18,6 @@ Welcome to the official BLRxZo Wiki – your **operational toolkit and cultural 
 * [Instagram – @zohouseofficial](https://www.instagram.com/zohouseofficial/)
 * [YouTube – Zo House Playlist](https://www.youtube.com/playlist?list=PLtbSwFnJdjOE_jNVYxM_eAj6KfWOZbDIO)
 * [BLRxZo Map PDF](https://drive.google.com/file/d/1AoayMkLPj5QWz_hFawVHAi1M0RyfufRf/view?usp=drive_link)
-
-{% embed url="https://drive.google.com/file/d/1AoayMkLPj5QWz_hFawVHAi1M0RyfufRf/view?usp=drive_link" %}
-BLRxZo Map PDF
-{% endembed %}
-
-### Pricing:
-
-{% embed url="https://jealous-brass-35b.notion.site/Zo-House-Koramangala-Pricing-2249fbf32f0280659e87d2182bb4b968" %}
 
 ### Operations
 
@@ -56,66 +52,8 @@ GST Certificate and additional documents in[ DATA ROOM.](https://drive.google.co
 * **Vibes Content**: [Photos & Videos](https://drive.google.com/drive/folders/1NgZFNWpwhfnT0U9k4KGo6YT9sMqWHUzd?usp=drive_link)
 * **Founder Interviews**: [Drive Folder](https://drive.google.com/drive/folders/1L8wrZv4ipgaddIBx6uFysASOT-C3pbK6?usp=drive_link)
 
-Register incoming visitors efficiently at Zo House Visitor Form, a streamlined process to track entries and ensure smooth operations.
-
-[BLRxZo Visitor form](https://zostel.typeform.com/blrxzovisitor)
-
 {% columns %}
 {% column width="41.66666666666667%" %}
-#### House Tour: Provide an insider’s guide for new members or staff with the Zo House Bangalore Tour, detailing spaces and amenities.
-
-
-
-**Event Calendar:**
-
-
-
-#### Event Proposals: Plan and approve events by submitting ideas at Typeform and reviewing the BLRxZo Deck for strategic alignment.
-
-Coordinate events with the dynamic BLRxZo Events Calendar, covering hackathons, mixers, and parties. Check in registered guests and curate the best vibes.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Financials: Oversee budgets with the running PnL at Google Sheet and event invoices at Google Sheet.
-
-
-
-
-
-#### FUDR Room QRs: Distribute unique designs and room access codes from Google Drive Folder to enhance operations and guest experience.
-
-
-
-#### Vibes Content: Leverage a rich collection of videos and pics at Google Drive Vibes Folder for marketing and community engagement.
-
-\
-Guest Interviews: Gain insights from founders at Google Drive Folder to align with Zo House’s vision.
-
-
-
-Follow your heart and shape your Zo House experience—reach out for support or updates!\
-Dive deeper into Founders of Zo World & Zo House Game Design.
-
 ### Tools
 
 Live Audit Report: [Live Audit Report - BLRxZo](https://zostel.slack.com/docs/T0299P2KN/F08N0MJMK1S)\
@@ -129,27 +67,11 @@ Portals: [https://sfoxzo.pisignage.com/](https://sfoxzo.pisignage.com/)
 {% endcolumn %}
 
 {% column %}
-{% embed url="https://samuraidojo.notion.site/Zo-House-Bangalore-Koramangala-Tour-22244d23767a80058890f74b54245218?source=copy_link" %}
-
-{% embed url="https://lu.ma/blrxzo" %}
-
-{% embed url="https://zostel.typeform.com/to/LgcBfa0M" %}
 
 
 
 
 
-
-
-{% embed url="https://docs.google.com/spreadsheets/d/1VKZKfKrfF2qNEnqvuttQwdNDsqueUUtGE0pzq8wnL2Y/edit?usp=drive_link" %}
-
-{% embed url="https://drive.google.com/drive/folders/1InhY3o9zdL0wYNQF8Mi_0qunRoX3lwoR?usp=drive_link" %}
-
-{% embed url="https://drive.google.com/drive/folders/1NgZFNWpwhfnT0U9k4KGo6YT9sMqWHUzd?usp=drive_link" %}
-
-{% embed url="https://drive.google.com/drive/folders/1L8wrZv4ipgaddIBx6uFysASOT-C3pbK6?usp=drive_link" %}
-
-{% embed url="https://samuraizan.gitbook.io/zo-house-wiki/zo-world" %}
 {% endcolumn %}
 {% endcolumns %}
 
