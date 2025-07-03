@@ -1,11 +1,10 @@
 ---
+description: Quick Links
 cover: .gitbook/assets/ZZo.jpeg
 coverY: 0
 ---
 
-# 🌐 \z/
-
-Quick Links
+# 🌐 \z/ Zohm
 
 •[ Zo World](zo-world.md)
 
