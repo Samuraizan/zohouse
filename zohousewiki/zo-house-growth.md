@@ -1,5 +1,5 @@
 ---
-description: How to Contribute to Zo House
+description: How to Contribute to Zo House growth
 icon: chart-line-up
 ---
 
