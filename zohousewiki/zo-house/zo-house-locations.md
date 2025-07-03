@@ -8,9 +8,9 @@ icon: map-location
 
 [Zo House Bangalore (Koramangala)](zo-house-locations/zo-house-bangalore-koramangala.md)
 
-[Zo House Bangalore (Whitefield)](broken-reference)
+[Zo House Bangalore (Whitefield)](zo-house-locations/zo-house-bangalore-whitefield.md)
 
-[Zo House San Francisco](broken-reference)
+[Zo House San Francisco](zo-house-locations/zo-house-san-francisco.md)
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Coming soon to your city</p></figcaption></figure>
 
