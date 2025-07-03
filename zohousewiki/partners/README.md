@@ -4,12 +4,6 @@ icon: handshake
 
 # Partners
 
-
-
-
-
-## Partners
-
 **Overview**: Zo House partners with visionary groups to amplify creativity and connection. From events in the Schelling Point to projects in the Zo Studio IRL, our partners help build a global community for life design.
 
 **Why Partner?**
