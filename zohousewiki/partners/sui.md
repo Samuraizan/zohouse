@@ -21,7 +21,7 @@ Sui Meetup at BLRxZo
 **Overview:** Following the success of the initial meetup, Zo World partneres with Sui to host a **1-week Sui Hacker House** at BLRxZo in the last week of November 2024. This event aims to provide an immersive environment for developers to work on Sui-based projects, receive mentorship, and showcase their innovations.
 
 {% embed url="https://x.com/BLRxZo/status/1862145705827017060" %}
-Hakcker House in BLRxZo
+Hacker House in BLRxZo
 {% endembed %}
 
 {% embed url="https://x.com/SFOxZo/status/1913650596651172293" %}
