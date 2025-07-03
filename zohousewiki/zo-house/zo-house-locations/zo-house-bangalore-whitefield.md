@@ -1,18 +1,11 @@
 # Zo House Bangalore (Whitefield)
 
-Embark on an extraordinary life design journey at Zo House SF, where innovation meets community across our global clubhouses, with founder-focused stays offering 24x7 access tailored for disruptors and nomads to follow their heart and create on their terms.
+Embark on an extraordinary life design journey at Zo House Whitefield, where innovation meets community across our global clubhouses, with founder-focused stays offering 24x7 access tailored for disruptors and nomads to follow their heart and create on their terms.
 
 ### Location & Booking
 
-* **Address**:\
-  &#x20;[View on Maps](https://g.co/kgs/4Tpuimk)
-* Zo House SF Map&#x20;
-
-{% embed url="https://zo.xyz/san-francisco" %}
-
-* **Pricing**:&#x20;
-
-{% embed url="https://www.notion.so/Zo-House-SF-Pricing-2249fbf32f02801b8c0fdf3663c99524" %}
+* **Address**: 406, Outer Circle, Dodsworth Layout, Whitefield, Bengaluru, Karnataka 560066\
+  [View on Maps](https://g.co/kgs/6X4AJcU)
 
 ### Socials & Media
 
@@ -20,17 +13,13 @@ Embark on an extraordinary life design journey at Zo House SF, where innovation 
 * [YouTube – Zo House Playlist](https://www.youtube.com/playlist?list=PLtbSwFnJdjOE_jNVYxM_eAj6KfWOZbDIO)
 * [BLRxZo Map PDF](https://zostel.slack.com/files/U07LDUKH5BQ/F094G0GTRUZ/blrxzo_map.pdf)
 
-### Pricing:
-
-{% embed url="https://jealous-brass-35b.notion.site/Zo-House-Koramangala-Pricing-2249fbf32f0280659e87d2182bb4b968" %}
-
 ### Operations
 
-* **Visitor Registration**: [BLRxZo Visitor Form](https://zostel.typeform.com/blrxzovisitor)
-* **House Tour**: [Notion Tour Guide](https://samuraidojo.notion.site/Zo-House-Bangalore-Koramangala-Tour-22244d23767a80058890f74b54245218?source=copy_link)
+* **Visitor Registration**: [WTFxZo Visitor Form](https://zostel.typeform.com/wtfvistorform)
+* **House Tour**: Tour Guide
 * **Events Calendar**: [Lu.ma Events](https://lu.ma/blrxzo)
 * **Event Proposals**: [Typeform Submission](https://zostel.typeform.com/to/LgcBfa0M)
-* **PnL & Invoices**: [Google Sheet](https://docs.google.com/spreadsheets/d/1VKZKfKrfF2qNEnqvuttQwdNDsqueUUtGE0pzq8wnL2Y/edit?usp=drive_link)
+* **PnL & Invoices**[: Google Sheet](https://docs.google.com/spreadsheets/d/1_sdVufcJP4tAS-anT_8KDQaCGO110AL1hYJV3j4w9kY/edit?usp=drive_link)
 
 ### Payments
 
@@ -40,7 +29,7 @@ Embark on an extraordinary life design journey at Zo House SF, where innovation 
   12th-13th Floor, Anna Infra’s Signature, Koramangala, Bengaluru - 560095
 * **UPI QR Code**: _(Available at property)_
 
-GST Certificate and additional documents in[ DATA ROOM.](https://drive.google.com/drive/folders/1lUIcCte7tsa_arEkVf8V5mPbrT5WL-e1?usp=drive_link)
+GST Certificate and additional documents in[ DATA ROOM.](https://drive.google.com/drive/folders/1M8kBOKKGtph95G4duoB3-iKzeka0_CZr?usp=drive_link)
 
 * **Crypto Payments**:\
   ENS: `Blrxzo.eth`\
@@ -53,75 +42,17 @@ GST Certificate and additional documents in[ DATA ROOM.](https://drive.google.co
 
 ### Asset Folders
 
-* **Room QRs & Designs**: [Google Drive](https://drive.google.com/drive/folders/1InhY3o9zdL0wYNQF8Mi_0qunRoX3lwoR?usp=drive_link)
+* **Room QRs & Designs**: [Google Drive](https://drive.google.com/drive/folders/1_1JDiZp6vScPwuOhvxUOFk62W0YMvc2d?usp=drive_link)
 * **Vibes Content**: [Photos & Videos](https://drive.google.com/drive/folders/1NgZFNWpwhfnT0U9k4KGo6YT9sMqWHUzd?usp=drive_link)
-* **Founder Interviews**: [Drive Folder](https://drive.google.com/drive/folders/1L8wrZv4ipgaddIBx6uFysASOT-C3pbK6?usp=drive_link)
-
-Register incoming visitors efficiently at Zo House Visitor Form, a streamlined process to track entries and ensure smooth operations.
-
-[BLRxZo Visitor form](https://zostel.typeform.com/blrxzovisitor)
+* **Founder Interviews**: [Drive Folder](https://drive.google.com/drive/folders/1BCuAtv5DqmqX88xcSZ2AheqYzQaut17Q?usp=drive_link)
 
 {% columns %}
 {% column width="41.66666666666667%" %}
-#### House Tour: Provide an insider’s guide for new members or staff with the Zo House Bangalore Tour, detailing spaces and amenities.
-
-
-
-**Event Calendar:**
-
-
-
-#### Event Proposals: Plan and approve events by submitting ideas at Typeform and reviewing the BLRxZo Deck for strategic alignment.
-
-Coordinate events with the dynamic BLRxZo Events Calendar, covering hackathons, mixers, and parties. Check in registered guests and curate the best vibes.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Financials: Oversee budgets with the running PnL at Google Sheet and event invoices at Google Sheet.
-
-
-
-
-
-#### FUDR Room QRs: Distribute unique designs and room access codes from Google Drive Folder to enhance operations and guest experience.
-
-
-
-#### Vibes Content: Leverage a rich collection of videos and pics at Google Drive Vibes Folder for marketing and community engagement.
-
-\
-Guest Interviews: Gain insights from founders at Google Drive Folder to align with Zo House’s vision.
-
-
-
-Follow your heart and shape your Zo House experience—reach out for support or updates!\
-Dive deeper into Founders of Zo World & Zo House Game Design.
-
 ### Tools
 
-Live Audit Report: [Live Audit Report - BLRxZo](https://zostel.slack.com/docs/T0299P2KN/F08N0MJMK1S)\
-Vendor DB: [Vendor DB](https://zostel.slack.com/docs/T0299P2KN/F08TWFNSC8M)\
-Food App : [BLRxZo FUDR](https://admin.fudr.in/dashboard/authentication/signin)\
+Live Audit Report: \
+Vendor DB: Vendor DB\
+Food App : [FUDR](https://admin.fudr.in/dashboard/authentication/signin)\
 Cameras: EZVIZ - [Android](https://play.google.com/store/apps/details?id=com.ezviz\&hl=en_IN\&pli=1) || [IOS](https://apps.apple.com/us/app/ezviz/id886947564)\
 Led Lights: WLED + - [Android](https://play.google.com/store/apps/details?id=com.pixelheart.wledplus\&hl=en_IN) || [IOS](https://apps.apple.com/us/app/wled/id6474789652)\
 Community Chat: [Telegram](https://t.me/BLRxZoLive)\
@@ -130,27 +61,11 @@ Portals: [https://sfoxzo.pisignage.com/](https://sfoxzo.pisignage.com/)
 {% endcolumn %}
 
 {% column %}
-{% embed url="https://samuraidojo.notion.site/Zo-House-Bangalore-Koramangala-Tour-22244d23767a80058890f74b54245218?source=copy_link" %}
-
-{% embed url="https://lu.ma/blrxzo" %}
-
-{% embed url="https://zostel.typeform.com/to/LgcBfa0M" %}
 
 
 
 
 
-
-
-{% embed url="https://docs.google.com/spreadsheets/d/1VKZKfKrfF2qNEnqvuttQwdNDsqueUUtGE0pzq8wnL2Y/edit?usp=drive_link" %}
-
-{% embed url="https://drive.google.com/drive/folders/1InhY3o9zdL0wYNQF8Mi_0qunRoX3lwoR?usp=drive_link" %}
-
-{% embed url="https://drive.google.com/drive/folders/1NgZFNWpwhfnT0U9k4KGo6YT9sMqWHUzd?usp=drive_link" %}
-
-{% embed url="https://drive.google.com/drive/folders/1L8wrZv4ipgaddIBx6uFysASOT-C3pbK6?usp=drive_link" %}
-
-{% embed url="https://samuraizan.gitbook.io/zo-house-wiki/zo-world" %}
 {% endcolumn %}
 {% endcolumns %}
 
