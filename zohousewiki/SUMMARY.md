@@ -6,8 +6,6 @@
   * [🎯 The Purpose of Zo House](zo-house/the-purpose-of-zo-house.md)
   * [Zo House Locations](zo-house/zo-house-locations.md)
     * [Zo House Bangalore (Koramangala)](zo-house/zo-house-locations/zo-house-bangalore-koramangala.md)
-    * [Zo House San Francisco](zo-house/zo-house-locations/zo-house-san-francisco.md)
-    * [Zo House Bangalore (Whitefield)](zo-house/zo-house-locations/zo-house-bangalore-whitefield.md)
   * [🕹️ Zo House Game Design](zo-house/zo-house-game-design/README.md)
     * [0️ Level 0: Orientation](zo-house/zo-house-game-design/level-0-orientation.md)
     * [1️ Level 1: Exploration](zo-house/zo-house-game-design/level-1-exploration.md)

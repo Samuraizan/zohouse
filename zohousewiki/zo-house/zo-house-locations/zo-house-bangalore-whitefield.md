@@ -1,2 +1,0 @@
-# Zo House Bangalore (Whitefield)
-
