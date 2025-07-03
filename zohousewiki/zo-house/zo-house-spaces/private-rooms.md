@@ -1,7 +1,5 @@
 ---
-description: >-
-  → Theme-based living spaces offering unique designs and comfortable
-  accommodations.
+description: → Founder Focused Private Stays
 cover: ../../.gitbook/assets/ZZo.jpeg
 coverY: 0
 ---
