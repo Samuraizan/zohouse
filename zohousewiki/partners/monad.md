@@ -71,23 +71,12 @@ To mark Monad’s first-ever IRL activation in India, connecting the Monad India
 * Community-Building: This served as a successful launchpad for Monad’s IRL India series, with rich engagement and cultural alignment.\
 
 
-#### Financial Summary:
+{% embed url="https://x.com/opensailglobal/status/1930626056215511229" %}
 
-| Item    | Amount (USD)             |
-| ------- | ------------------------ |
-| Revenue | $2,500                   |
-| Type    | Meetup + Stay experience |
-
-Testimonial Insight: Monad appreciated the hospitality and atmosphere of BLRxZo, noting it as a key factor in their India community-building journey.
-
-***
+{% embed url="https://x.com/WTFxZo/status/1929094345128349990" %}
 
 ### Photo Gallery
 
 * Link to IndiaNad Meetup Gallery - [Here](https://drive.google.com/drive/folders/1uFx5Q_POlt5idbcPzfi7h2JgmOIzInOp)
 * Link to Monad Blitz Hackathon Photos - Yet to receive\
   \
-
-
-\
-\

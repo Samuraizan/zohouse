@@ -85,3 +85,4 @@
     * [🐦 Twitter Playbook](zohmm/zo-protocol/twitter-playbook.md)
     * [🏁 Initiation](zohmm/zo-protocol/initiation.md)
 * [❓ FAQ & Glossary](faq-and-glossary.md)
+* [Zo House Growth](zo-house-growth.md)
