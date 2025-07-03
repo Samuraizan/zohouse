@@ -14,17 +14,6 @@ Started the AggSF on October. Completed 1st month. Now all the activities are pa
 
 **Revenue Summary from Avalanche Activations:**
 
-| Activations         | Revenue (In POL)   |
-| ------------------- | ------------------ |
-| zk Bankai HH        | 44,827.59 POL      |
-| AggSF Kickoff Party | 13,793.10 POL      |
-| zk Buildathon       | 12,068.97 POL      |
-| AI Fusion           | 12,068.97 POL      |
-| Founders Connect    | 16,379.31 POL      |
-| Her Crypto Circle   | 10,344.83 POL      |
-| AfterParty          | 27,586.21 POL      |
-| **TOTAL**           | **137,068.98 POL** |
-
 Proposal for AggSF - [**AggregatedSF Proposal**](https://www.notion.so/AggregatedSF-Proposal-c964be39b68141af9610b7b201cea32f?pvs=21)
 
 **AggSF October Report**&#x20;

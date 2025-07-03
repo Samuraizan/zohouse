@@ -23,10 +23,6 @@ Building on the momentum of DeFi Mania, Nishu, one of our founder member and an 
 * **Gaming Events:** Hosted gaming nights in three cities, featuring OffTheGrid gameplay, casual gaming, and community networking.
 * **Content Creation:** High-quality post-event videos were produced for each city to boost engagement and promote the events on social media. [Watch the DXBxZo Game Night Video](https://x.com/DXBxZo/status/1848389420111859740) and [BLRxZo Game Night Post](https://x.com/BLRxZo/status/1848385035961045472).
 
-**Revenue Summary from Avalanche Activations:**
-
-<table><thead><tr><th>City</th><th>Revenue (In AVAX)</th><th data-hidden>Revenue</th></tr></thead><tbody><tr><td>DeFi Mania</td><td>79.85</td><td>$2,000</td></tr><tr><td>Tri City Gaming Night</td><td>105.7</td><td>$2400</td></tr><tr><td>BLR - Gaming Night</td><td>29.16</td><td>$700</td></tr><tr><td><strong>Total</strong></td><td><strong>214.72</strong></td><td></td></tr></tbody></table>
-
 **Moments**
 
 1. **Strong Developer Turnout:** Despite limited time, the Avax track attracted quality projects, with 9 submissions.

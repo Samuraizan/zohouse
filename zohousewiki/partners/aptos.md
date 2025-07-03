@@ -37,12 +37,6 @@ Overview: In partnership with Onboarding Club, Zo World hosted the Aptos Code Ja
 
 **Revenue Summary from Solana Activations:**
 
-| **Events**     | **Revenue (In APT)** |
-| -------------- | -------------------- |
-| DeFi Mania     | 960                  |
-| Aptos Code Jam | 61.5                 |
-| **Total**      | **1021.5**           |
-
 Resources:
 
 [DeFi Mania Hacker House](https://www.notion.so/DeFi-Mania-Hacker-House-eef04c85dac745a291330aff67fdd914?pvs=21)

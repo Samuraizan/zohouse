@@ -45,14 +45,6 @@ Zo World has established a strong, multi-faceted relationship with the Solana ec
 
 **Revenue Summary from Solana Activations:**
 
-| **Events**             | **Revenue** **In SOL** |
-| ---------------------- | ---------------------- |
-| Cross Chain Clubhouse  | 583                    |
-| Sol Eco Call - DXB     | 2.12                   |
-| Sol Eco Call - BLR     | 18.66                  |
-| Solana Startup Village | 91.45                  |
-| Total                  | 695.23                 |
-
 **Moonshots:**
 
 [Cubik](https://x.com/_cubik), [fetchh](https://x.com/fetcchx), [Tiny dancer](https://x.com/tinydancerio), [candypay](https://x.com/candypayfun)
