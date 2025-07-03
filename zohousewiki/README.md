@@ -19,5 +19,7 @@ Quick Links
 
 • [Partners](partners/)
 
+• [Growth](zo-house-growth.md)
+
 • [FAQ & Glossary](faq-and-glossary.md)
 
