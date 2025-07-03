@@ -6,17 +6,24 @@ coverY: 0
 
 # 🎭 Cultures
 
+[duh](duh.zo-decrypt-urban-hardware.md) (Previously science & technology)
+
+[Studio](../zo-nodes/zo-studio.md) (Previously Design)
+
 Games
 
-Design
+* FIFAxZo
+* PokerxZo
+* CatanxZo
+* 64xZo (Chess)
 
 Sports
+
+* PickleballxZo
 
 Business
 
 Photography
-
-Science & Technology
 
 Travel & Adventure
 
@@ -36,7 +43,7 @@ Music & Entertainment
 
 Nature & Wildlife
 
-[Spiritual](spirituality.md)
+Spiritual
 
 Stories & Journals
 

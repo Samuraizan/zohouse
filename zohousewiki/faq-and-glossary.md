@@ -5,7 +5,7 @@ coverY: 0
 
 # ❓ FAQ & Glossary
 
-**Welcome to Zo House!** Below are answers to common questions about our community, spaces, and how to get involved. Explore more at [Zo House Wiki](https://samuraizan.gitbook.io/zo-house-wiki/) or contact our team for details.
+Below are answers to common questions about our community, spaces, and how to get involved. Explore more at [Zo House Wiki](https://samuraizan.gitbook.io/zo-house-wiki/) or contact our team for details.
 
 **1. What is Zo House?**\
 Zo House is a global network of clubhouses where creators, dreamers, and innovators connect to design their ideal lives. From the Schelling Point for events to the Flo Zone for deep work, it’s a sanctuary for personal growth and community. Learn more at [Zo House Spaces](https://samuraizan.gitbook.io/zo-house-wiki/zo-house/zo-house-spaces).

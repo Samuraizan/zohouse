@@ -1,5 +1,6 @@
 ---
 description: All the active Zo Calendars
+icon: calendar-star
 ---
 
 # City Calendars
