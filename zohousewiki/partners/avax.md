@@ -6,11 +6,14 @@ Zo World partnered with Avalanche (Avax) for two major initiatives: **DeFi Mania
 
 #### **1. DeFi Mania - Avax Track Sponsorship**
 
-**Overview:** DeFi Mania was a week-long hacker house at BLRxZo focused on building DeFi projects. Avax was the **Track Sponsor**, contributing $4,000 ($2,000 for operations and $2,000 for track prizes). The goal was to showcase Avax as a robust platform for DeFi solutions and engage the Indian developer community.
+**Overview:** DeFi Mania was a week-long hacker house at BLRxZo focused on building DeFi projects. Avax was the **Track Sponsor**, $2,000 for track prizes. The goal was to showcase Avax as a robust platform for DeFi solutions and engage the Indian developer community.
 
 **Activities:**
 
-* **Track Promotion:** Zo World created a promotional video for the Avax track, driving visibility and interest. [Watch the promotional video here](https://x.com/BLRxZo/status/1800899266178953721).
+* **Track Promotion:** Zo World created a promotional video for the Avax track, driving visibility and interest.&#x20;
+
+{% embed url="https://x.com/BLRxZo/status/1800899266178953721" %}
+
 * **Workshop & Mentorship:** Avax’s DevRel team collaborated closely with Zo World to conduct a dedicated workshop, offering technical guidance and mentorship to developers.
 * **IRL Hacker House:** Out of **9 project submissions**, two standout teams were selected for an in-person, week-long hacker house.
 
@@ -21,7 +24,17 @@ Building on the momentum of DeFi Mania, Nishu, one of our founder member and an 
 **Activities:**
 
 * **Gaming Events:** Hosted gaming nights in three cities, featuring OffTheGrid gameplay, casual gaming, and community networking.
-* **Content Creation:** High-quality post-event videos were produced for each city to boost engagement and promote the events on social media. [Watch the DXBxZo Game Night Video](https://x.com/DXBxZo/status/1848389420111859740) and [BLRxZo Game Night Post](https://x.com/BLRxZo/status/1848385035961045472).
+* **Content Creation:** High-quality post-event videos were produced for each city to boost engagement and promote the events on social media.&#x20;
+
+{% columns %}
+{% column %}
+{% embed url="https://x.com/DXBxZo/status/1848389420111859740" %}
+{% endcolumn %}
+
+{% column %}
+{% embed url="https://x.com/BLRxZo/status/1848385035961045472" %}
+{% endcolumn %}
+{% endcolumns %}
 
 **Moments**
 
