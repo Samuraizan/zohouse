@@ -24,5 +24,5 @@ coverY: 0
 
 **Schelling Point** is the heart of Zo House, where ideas flourish and communities unite to design lives of purpose.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Zo House SF</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Zo House SF</p></figcaption></figure>
 

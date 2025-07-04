@@ -61,7 +61,7 @@
   * [Starknet](partners/starknet.md)
   * [Zeeve](partners/zeeve.md)
   * [DXB Care](partners/dxb-care.md)
-  * [Hilton](partners/hilton.md)
+  * [Canopy by Hilton](partners/canopy-by-hilton.md)
 * [Zo House Growth](zo-house-growth.md)
 * [❓ FAQ & Glossary](faq-and-glossary.md)
 * [🏙️ Cities](cities/README.md)

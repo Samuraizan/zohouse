@@ -10,7 +10,7 @@ coverY: 0
 
 **Overview**: Flo Zone is Zo House’s dedicated co-working space, a serene hub where creators, entrepreneurs, and dreamers focus, brainstorm, and bring ideas to life. Designed for deep work and collaboration, it’s where visions take shape.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Zo House Koramangala</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Zo House Koramangala</p></figcaption></figure>
 
 **What It Offers**:
 
