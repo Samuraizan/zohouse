@@ -16,20 +16,33 @@ Zo World has established a strong, multi-faceted relationship with the Solana ec
    * More Details:&#x20;
 
 {% embed url="https://www.notion.so/zo-world/CrossChain-Clubhouse-cf5f198e851648f0a40ea99886be3954" %}
+Detailed notion page of Cross Chain Clubhouse
+{% endembed %}
 
-1. **Solana Startup Village (BLRxZo):**
+**Moonshots:**
+
+[Cubik](https://x.com/_cubik), [fetchh](https://x.com/fetcchx), [Tiny dancer](https://x.com/tinydancerio), [candypay](https://x.com/candypayfun)
+
+
+
+2. &#x20;**Startup Village (BLRxZo):**
 
 * **Overview:** BLRxZo was chosen as the official venue for the **Solana Startup Village**, an initiative aimed at nurturing early-stage projects on Solana.
 * **Activities:**
   * Hosted workshops, mentorship sessions, and pitch practices, providing a comprehensive support ecosystem for startups.
   * Accommodation and co-working space for startup teams, fostering collaboration and productivity.
-* **Revenue:** $15,000 USDC
 * **Impact:** The Startup Village helped cement BLRxZo’s reputation as a preferred venue for Solana’s community-building efforts, offering an immersive experience for participants and contributing to the growth of the Solana developer ecosystem.
 * **Vibes:**
 
+{% columns %}
+{% column %}
 {% embed url="https://x.com/meowman_sol/status/1815004574136291688" %}
+{% endcolumn %}
 
+{% column %}
 {% embed url="https://x.com/SuperteamIN/status/1815626284002861351" %}
+{% endcolumn %}
+{% endcolumns %}
 
 3. **Solana Ecosystem Calls in BLRxZo:**
 
@@ -62,17 +75,13 @@ Zo World has established a strong, multi-faceted relationship with the Solana ec
 
 * The partnership extended to Dubai with **Solana Eco Call** at DXBxZo.&#x20;
 
-**Revenue Summary from Solana Activations:**
-
-**Moonshots:**
-
-[Cubik](https://x.com/_cubik), [fetchh](https://x.com/fetcchx), [Tiny dancer](https://x.com/tinydancerio), [candypay](https://x.com/candypayfun)
 
 
+5. **Solana DePin Summit**
 
-5. Solana DePin Summit
+Superteam India conducted 7 day DePIN and hardware bootcamp before Solana DePin Summit at WTFxZo
 
-Superteam India conducted DePIN and hardware bootcamp before Solana DePin Summit at WTFxZo
+March 18th - 26th
 
 {% columns %}
 {% column %}
@@ -81,6 +90,10 @@ Vlog by Dabba Team at WTFxZo
 {% endembed %}
 
 {% embed url="https://x.com/SuperteamIN/status/1903425148700828099" %}
+Video Shot at WTFxZo
+{% endembed %}
+
+
 {% endcolumn %}
 
 {% column %}
@@ -94,8 +107,8 @@ Group Picture of Builders from the DePIN Bootcamp
 
 
 
-
-
 {% embed url="https://x.com/SuperteamIN/status/1902657204907319593" %}
+DePIN Bootcamp Announcement Post
+{% endembed %}
 {% endcolumn %}
 {% endcolumns %}
