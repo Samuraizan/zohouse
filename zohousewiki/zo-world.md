@@ -4,7 +4,7 @@ cover: .gitbook/assets/ZZo.jpeg
 coverY: 0
 ---
 
-# 🌐 Zo World
+# 🌏 Zo World
 
 Zo World is a network state for culture, bridging digital communities and physical spaces. Our core principle—“Follow Your Heart”—encourages freedom, creativity, and collaboration. Within Zo World, you’ll find diverse tribes: founders, artists, travellers, devs, gamers, DAOs, and more, all co-creating a global cultural ecosystem powered by onchain tools and real-world experiences.
 

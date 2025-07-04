@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👁️‍🗨️ Zohm \z/](README.md)
-* [🌐 Zo World](zo-world.md)
+* [🌏 Zo World](zo-world.md)
 * [🏠 Zo House](zo-house/README.md)
   * [🎯 The Purpose of Zo House](zo-house/the-purpose-of-zo-house.md)
   * [Zo House Locations](zo-house/zo-house-locations.md)
