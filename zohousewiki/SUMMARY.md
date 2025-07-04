@@ -53,6 +53,7 @@
   * [DXB Care](partners/dxb-care.md)
   * [RAK DAO](partners/rak-dao.md)
   * [Canopy by Hilton](partners/canopy-by-hilton.md)
+  * [Zomato](partners/zomato.md)
 * [Success Stories](<partners/README (1).md>)
   * [Solana](partners/solana.md)
   * [Polygon](partners/polygon.md)
