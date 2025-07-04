@@ -21,6 +21,10 @@ DXBCARE is a concierge-style service for founders, remote workers, and digital n
 {% endcolumn %}
 {% endcolumns %}
 
+#### What This Partnership Means
+
+This partnership brings DXBCARE’s trusted services to the Zo World network, especially for those looking to **live, launch, or grow in the UAE**. With exclusive discounts and access, Zo members can now transition into Dubai life with confidence, ease, and expert help.
+
 ***
 
 #### Membership Plans
@@ -41,12 +45,3 @@ As part of this partnership, Zo World members and community referrals unlock **e
 * **20% Discount** on the _Founder Membership_ for all Zo World members
 * **Fast-track concierge access** for builder-friendly onboarding in Dubai
 * Priority slots for DXBCARE’s high-touch business setup and local support
-
-***
-
-#### Referral Program
-
-As part of our extended ecosystem support:
-
-* Zo World will be referring DXBCARE to founders relocating or expanding into the UAE.
-* First-time referrals through Zo World are eligible for **a 20% discount**, helping more builders get started with ease and speed.
