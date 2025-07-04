@@ -16,7 +16,7 @@ coverY: 0
 
 • [Parties](parties/)
 
-• [Partners](partners/)
+• [Partners](success-stories/)
 
 • [Growth](zo-house-growth.md)
 

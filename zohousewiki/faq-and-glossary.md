@@ -40,7 +40,7 @@ Not always! Public spaces and events are open to all. Private spaces like the Fl
 Membership unlocks exclusive spaces and events. Apply through [zo.xyz](https://zo.xyz/) or the Zo House app, and our team will guide you based on your interests.
 
 **8. What makes Zo House parties special?**\
-Zo House parties, like the Punk Pool Bash, spark connection and creativity. Public or private, they inspire life design through shared joy. Check out some case studies [here.](partners/)
+Zo House parties, like the Punk Pool Bash, spark connection and creativity. Public or private, they inspire life design through shared joy. Check out some case studies [here.](success-stories/)
 
 **9. Can I work or create at Zo House?**\
 Yes! The Flo Zone is ideal for deep work, Zo Studio IRL for content creation, and the Multiverse for projects. Bring your ideas and let Zo House fuel your creativity.
