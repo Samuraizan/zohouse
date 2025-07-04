@@ -62,6 +62,7 @@
   * [Zeeve](partners/zeeve.md)
   * [DXB Care](partners/dxb-care.md)
   * [Canopy by Hilton](partners/canopy-by-hilton.md)
+  * [RAK DAO](partners/rak-dao.md)
 * [Zo House Growth](zo-house-growth.md)
 * [❓ FAQ & Glossary](faq-and-glossary.md)
 * [🏙️ Cities](cities/README.md)
