@@ -4,7 +4,7 @@ cover: .gitbook/assets/ZZo.jpeg
 coverY: 0
 ---
 
-# 🌐 \z/ Zohm
+# 👁️‍🗨️ Zohm \z/
 
 •[ Zo World](zo-world.md)
 

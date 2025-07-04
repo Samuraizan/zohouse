@@ -25,16 +25,6 @@ Zo House Growth is all about expanding our global network of innovation hubs. Th
 
 {% embed url="https://x.com/SFOxZo/status/1842369115446521864" %}
 
-{% columns %}
-{% column width="8.333333333333332%" %}
-
-{% endcolumn %}
-
-{% column %}
-
-{% endcolumn %}
-{% endcolumns %}
-
 ### How to Launch Your Zo House
 
 {% columns %}
@@ -67,7 +57,7 @@ Join the network
 
 ### The Numbers
 
-* **Steady IRR** ensured by fixed occupancy rates (80%+) through our established partnership with Zostel, providing guaranteed sustainability.
+* **Steady IRR** ensured by fixed occupancy rates through our established partnership with Zostel, providing guaranteed sustainability.
 * **Additional Revenue Streams** through hosting dynamic events, office rentals for teams, and creative partnerships, significantly boosting overall profitability.
 * **Succession Fees** from successful incubation of visionary founder projects within your node.
 * **Monthly Programming** to maintain high community engagement and vibrant node atmosphere.
@@ -81,5 +71,11 @@ Join the network
 * Instant integration into an international community of creators and visionaries.
 * Access to exclusive global partnerships, marketing support, and specialised resources.
 * Lead and shape cultural and technological innovation in your community.
+
+Book a call with Samurai if you are already a [Founder Member](https://opensea.io/collection/founders-of-zo-world):&#x20;
+
+{% embed url="https://calendly.com/samuraizan/vibe-check" %}
+Samurai's Calendar
+{% endembed %}
 
 ***
