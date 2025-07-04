@@ -1,6 +1,6 @@
 # Polygon
 
-Zo World partnered with Polygon along with Dabl Club, Sentient AI and Hadron FC for the **AggregatedSF** initiative, aimed at establishing a strong community presence for Polygon in San Francisco. The partnership included a **$50,000 three-month deal** to host a series of **15 curated events**, designed to engage founders, developers, and enthusiasts, and promote the Polygon ecosystem in the SF Bay Area.
+Zo World partnered with Polygon along with Dabl Club, Sentient AI and Hadron FC for the **AggregatedSF** initiative, aimed at establishing a strong community presence for Polygon in San Francisco. The partnership was a **three-month deal** to host a series of **15 curated events**, designed to engage founders, developers, and enthusiasts, and promote the Polygon ecosystem in the SF Bay Area.
 
 We have also hosted a zk hacker house with [zk - Bankai](https://twitter.com/zk_bankai) from **1st - 7th December 2023**. zk - Bankai is a builders community majorly focused on Indian builders. This initiative was powered by Polygon along with Scroll, Starkware, Ingonyama.
 
@@ -11,10 +11,6 @@ We have also hosted a zk hacker house with [zk - Bankai](https://twitter.com/zk_
 A strategic community-building collaboration with Polygon, Hadron, Sentient and Dabl Club focusing on hosting events and good online presence through X to drive awareness, user engagement, and ecosystem growth in San Francisco.
 
 Started the AggSF on October. Completed 1st month. Now all the activities are paused due to some internal disputes going on within the team.
-
-**Revenue Summary from Avalanche Activations:**
-
-Proposal for AggSF - [**AggregatedSF Proposal**](https://www.notion.so/AggregatedSF-Proposal-c964be39b68141af9610b7b201cea32f?pvs=21)
 
 **AggSF October Report**&#x20;
 
