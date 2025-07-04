@@ -4,6 +4,8 @@
 
 Zo World partnered with Algorand Foundation to produce a 3-day immersive hackathon Algorand Hack Series at Zo House Koramangala, bringing together over 100+ developers, builders, and creators. This marked one of Algorand India’s largest in-person activations, combining live pitches, code walkthroughs, content, and cultural exchange.
 
+{% embed url="https://x.com/Algo_Bharat/status/1938652703288369514" %}
+
 ***
 
 ### Event Summary
@@ -45,6 +47,16 @@ Zo World partnered with Algorand Foundation to produce a 3-day immersive hackath
 * 2:00 PM: Event Wrap-up\
 
 
+{% columns %}
+{% column %}
+{% embed url="https://x.com/SavvySID_3187/status/1935525861194670341" %}
+{% endcolumn %}
+
+{% column %}
+
+{% endcolumn %}
+{% endcolumns %}
+
 ***
 
 ### Livestreams
@@ -76,31 +88,4 @@ The following teams/individuals were selected for the finale and gave:
 
 ***
 
-### Revenue & Expense Summary
-
-#### Revenue Breakdown
-
-| Source             | Amount (INR) | USD Equivalent |
-| ------------------ | ------------ | -------------- |
-| Algorand (Primary) | ₹619,141.70  | $7,255         |
-| Algo (Add-on)      | ₹222,054.68  | $2,602         |
-| Total              | ₹841,196.38  | $9,857         |
-
-#### Expense Breakdown
-
-| Category        | INR        | USD       |
-| --------------- | ---------- | --------- |
-| Catering        | ₹300,000   | $3,515.35 |
-| Chairs          | ₹8,850     | $103.70   |
-| TV              | ₹8,000     | $93.74    |
-| Projector       | ₹4,500     | $52.73    |
-| Stay - Zo House | ₹77,108    | $903.54   |
-| Stay - Zostel   | ₹82,518.40 | $964.00   |
-| Total Expenses  | ₹480,976   | $5,636.00 |
-
-#### Net Profit
-
-| Metric | Value     |
-| ------ | --------- |
-| INR    | ₹360,220  |
-| USD    | $4,220.99 |
+####
