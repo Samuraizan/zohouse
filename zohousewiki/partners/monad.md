@@ -8,10 +8,10 @@ In 2024, Zo World collaborated with Monad India to execute a powerful series of 
 
 ### Activations Summary
 
-| Activation            | Date         | Format        | Location | Revenue | Attendees                       |
-| --------------------- | ------------ | ------------- | -------- | ------- | ------------------------------- |
-| Monad Blitz Hackathon | May 31, 2025 | Hackathon     | WTFxZo   | $2,645  | 80+ developers                  |
-| IndiaNad Meetup       | June 2024    | Meetup + Stay | BLRxZo   | $2,500  | 11 team members & 50+ community |
+| Activation            | Date         | Format        | Location | Attendees                       |
+| --------------------- | ------------ | ------------- | -------- | ------------------------------- |
+| Monad Blitz Hackathon | May 31, 2025 | Hackathon     | WTFxZo   | 80+ developers                  |
+| IndiaNad Meetup       | June 2024    | Meetup + Stay | BLRxZo   | 11 team members & 50+ community |
 
 ***
 
@@ -21,7 +21,17 @@ In 2024, Zo World collaborated with Monad India to execute a powerful series of 
 
 To engage and onboard India’s student and developer talent to the Monad ecosystem through a 1-day offline hackathon.
 
-#### 📍 Key Details:
+{% columns %}
+{% column %}
+{% embed url="https://x.com/monad_dev/status/1933530629909418045" %}
+{% endcolumn %}
+
+{% column %}
+{% embed url="https://x.com/brooklyndotos/status/1929164904541663382" %}
+{% endcolumn %}
+{% endcolumns %}
+
+#### Key Details:
 
 * Date: May 31, 2025
 * Venue: WTFxZo, Bangalore
@@ -34,22 +44,6 @@ To engage and onboard India’s student and developer talent to the Monad ecosys
 * Custom setup with tents, projector, catering, and power backup\
 
 
-#### Financial Summary:
-
-| Category   | INR      | USD    | Notes            |
-| ---------- | -------- | ------ | ---------------- |
-| Revenue    | ₹225,724 | $2,645 | Total from Monad |
-| Expenses   | ₹160,171 | $1,877 |                  |
-| Net Profit | ₹65,553  | $768   | <p><br></p>      |
-
-Note: Tents were pre-installed as a rain precaution but not billed to Monad – a goodwill gesture highlighting Zo's commitment.
-
-#### &#x20; Feedback:
-
-* Monad team was extremely satisfied
-* Expressed interest to host another event in 2–3 months
-* Solidified Zo as a dependable ecosystem builder
-
 ***
 
 ### IndiaNad Meetup — BLRxZo
@@ -58,7 +52,7 @@ Note: Tents were pre-installed as a rain precaution but not billed to Monad – 
 
 To mark Monad’s first-ever IRL activation in India, connecting the Monad India team with the Bangalore Web3/developer community.
 
-#### 📍 Key Details:
+#### Key Details:
 
 * Date: Early June 2025
 * Venue: BLRxZo
@@ -71,9 +65,17 @@ To mark Monad’s first-ever IRL activation in India, connecting the Monad India
 * Community-Building: This served as a successful launchpad for Monad’s IRL India series, with rich engagement and cultural alignment.\
 
 
+{% columns %}
+{% column %}
 {% embed url="https://x.com/opensailglobal/status/1930626056215511229" %}
+{% endcolumn %}
 
+{% column %}
 {% embed url="https://x.com/WTFxZo/status/1929094345128349990" %}
+
+
+{% endcolumn %}
+{% endcolumns %}
 
 ### Photo Gallery
 
