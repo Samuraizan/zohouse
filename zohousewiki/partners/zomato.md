@@ -10,7 +10,7 @@
 
 #### What This Partnership Means
 
-Zo World has teamed up with Zomato to make food delivery even smoother for our community. Now, when you're at **any Zo House location**, you can enjoy **free delivery** on Zomato orders—no matter what you're craving.
+Zo World has teamed up with Zomato to make food delivery even smoother for our community. Now, when you're at any Zo House location in Bangalore, you can enjoy free delivery on Zomato orders no matter what you're craving.
 
 ***
 
@@ -18,7 +18,7 @@ Zo World has teamed up with Zomato to make food delivery even smoother for our c
 
 1. **Free Delivery at Zo House**
 
-All Zomato users get **free delivery** when ordering from Zo House—just scan the on-site QR code to activate the offer.
+All Zomato users get **free delivery** when ordering from Zo House. Just scan the on-site QR code to activate the offer.
 
 2. **Open to All Visitors**
 
@@ -26,7 +26,7 @@ Whether you're a resident, event guest, or just stopping by for co-working or a 
 
 3. **Location-Based Unlock**
 
-This benefit is activated only at Zo House locations via a special QR code—look for it near the entrance or common areas.
+This benefit is activated only at Zo House locations via a special QR code.
 
 ***
 
