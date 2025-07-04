@@ -32,7 +32,6 @@ Zeeve is extending **exclusive pricing** and **discounted plans** for startups f
 **3. Ecosystem Growth Opportunities**\
 Projects will gain visibility and support through:
 
-* Joint GTM initiatives with Zeeve and the Avalanche ecosystem
 * Integration with 30+ third-party tools like wallets, oracles, and on/off ramps
 * Interoperability across L1s and L2s for scalability and ecosystem collaboration
 

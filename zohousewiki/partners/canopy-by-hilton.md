@@ -8,7 +8,7 @@ Canopy by Hilton in San Francisco's vibrant SoMa district is a design-forward, u
 
 #### What This Partnership Means
 
-Zo House SF has secured a **preferred accommodation partnership** with Canopy by Hilton, giving our members, collaborators, and event guests **special prices for** a tailored stay experience.
+This partnership designates **Zo World as a preferred corporate partner** of Canopy by Hilton SF SoMa. It ensures that Zo House SF residents, guests, and collaborators have access to premium accommodations at exclusive rates and terms.&#x20;
 
 ***
 
@@ -16,7 +16,7 @@ Zo House SF has secured a **preferred accommodation partnership** with Canopy by
 
 * **Special Corporate Rate** (Run of House rooms) for Zo guests
 
-> 18% Off for all Stays at Hilton by canopy.&#x20;
+
 
 ***
 
@@ -25,6 +25,5 @@ Zo House SF has secured a **preferred accommodation partnership** with Canopy by
 #### Important Notes
 
 * Special rates apply only for **individual travel (up to 9 rooms/night)**
-* **Blackout Dates** apply during major SF events (e.g., Dreamforce, Game Dev Conf., RSA)
-* Flexible check-in/out policies for Zo guests with advance coordination
+* **Blackout Dates** apply during major SF events&#x20;
 * Bookings require credit card guarantees or pre-arranged company authorisation
