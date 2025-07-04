@@ -18,6 +18,16 @@ Zo World has built a strong and collaborative relationship with the Starknet eco
 
     **More Details**: [Starknet Event at BLRxZo](https://x.com/TPG_Karnataka/status/1784233811024482403)
 
+{% columns %}
+{% column %}
+{% embed url="https://x.com/TPG_Karnataka/status/1784233811024482403" %}
+{% endcolumn %}
+
+{% column %}
+{% embed url="https://x.com/YashikaChugh4/status/1688487020254167040" %}
+{% endcolumn %}
+{% endcolumns %}
+
 #### **Starknet Connect (August 7, 2023)**
 
 **Event Overview**: Zo World collaborated with Starknet India to host Starknet Connect, a flagship event designed to bring together developers, ecosystem leaders, and enthusiasts to explore the potential of Starknet’s Layer 2 solutions.
@@ -43,14 +53,18 @@ Zo World has built a strong and collaborative relationship with the Starknet eco
 
     **Impact**: The Build Station solidified Zo World’s reputation as a key partner for Starknet’s ecosystem-building efforts and contributed to the growth of the Starknet developer community in India.
 
-    **More Details**: [Starknet Build Station](https://x.com/StarknetIN/status/1801183739692916907)
+{% columns %}
+{% column %}
+{% embed url="https://x.com/StarknetIN/status/1801183739692916907" %}
+{% endcolumn %}
+
+{% column %}
+
+{% endcolumn %}
+{% endcolumns %}
 
 #### **Vibes**
 
 * **Starknet Ecosystem Engagement**: Zo World has consistently hosted Starknet-focused events, workshops, and meetups, creating a dedicated space for developers and community leaders to connect and collaborate.
 * **Community Building**: Through partnerships with Starknet India and TPG, Zo World has facilitated networking opportunities and fostered deeper engagement within the Starknet ecosystem.
-
-**Revenue Summary from Starknet Activations**
-
-<table><thead><tr><th>Events</th><th>Revenue (In STRK)</th><th data-hidden></th></tr></thead><tbody><tr><td>Starknet Event</td><td></td><td></td></tr><tr><td>Starknet Build Station</td><td></td><td></td></tr><tr><td>Starknet Connect</td><td></td><td></td></tr></tbody></table>
 
