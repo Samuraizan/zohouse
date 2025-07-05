@@ -32,16 +32,16 @@ Zo World
 
 ### Membership & Participation
 
-### [Founder NFTs](https://opensea.io/collection/founders-of-zo-world)
+#### [Founder NFTs](https://opensea.io/collection/founders-of-zo-world)
 
 Founder NFTs are exclusive memberships granting lifetime access to all Zo Houses, VIP event participation, community governance, and fractional ownership opportunities.\
 [Token Gated Founders Chat](https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxNzk2Nzg1MTU5)
 
-### [Citizen NFTs](https://opensea.io/collection/citizens-of-zo-world)
+#### [Citizen NFTs](https://opensea.io/collection/citizens-of-zo-world)
 
 Citizen NFTs offer broader community membership, rewarding engagement and loyalty within the Zo ecosystem, ideal for new community entrants and active supporters.
 
-### [Zo World Accelerator](https://zo-world.vercel.app/)
+#### [Zo World Accelerator](https://zo-world.vercel.app/)
 
 #### Zo Accelerator fast-tracks innovative startups and creative projects through mentorship, resources, and a global network. It is a catalyst for meaningful growth, helping founders and creators accelerate their visions.
 
