@@ -1,6 +1,6 @@
 ---
 description: Brief overview of Zo World
-cover: .gitbook/assets/ZZo.jpeg
+cover: ../.gitbook/assets/ZZo.jpeg
 coverY: 0
 ---
 
@@ -8,7 +8,7 @@ coverY: 0
 
 Zo World is a network state for culture, bridging digital communities and physical spaces. Our core principle—“Follow Your Heart”—encourages freedom, creativity, and collaboration. Within Zo World, you’ll find diverse tribes: founders, artists, travellers, devs, gamers, DAOs, and more, all co-creating a global cultural ecosystem powered by onchain tools and real-world experiences.
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 **Zo House: The Heart of Zo World**\
 Zo Houses are tech-enabled clubhouses in cities like Bangalore, San Francisco, and Dubai, offering spaces for connection, work, and play. From the Schelling Point for events to the Liquidity Pool for relaxation, each space empowers you to live with purpose. Explore them at Zo House Spaces.

@@ -6,7 +6,7 @@ coverY: 0
 
 # 👁️‍🗨️ Zohm \z/
 
-•[ Zo World](zo-world.md)
+•[ Zo World](zo-world/)
 
 • [Zo House](zo-house/)
 
