@@ -172,12 +172,12 @@ Access Details:
 
 Premium Areas:
 
-* Studio: Available for creative work (e.g., recording, design) at 1000 INR per hour.
-* Workstations: Bookable for focused work at 800 INR per day (8 hours).
+* Studio: Book through [form](https://zostel.typeform.com/to/LgcBfa0M).
+* Workstations: Bookable through contacting House Captain.
 
 - Degen Lounge: Exclusive to Founder Members or event-specific access (e.g., during hackathons or mixers). Non-Founders can access it by booking a private room at Zo House.
 
-* Event Spaces: Require an event proposal form submitted via the Zo App or to the House Captain, detailing the event type, duration, and expected attendees.
+* Event Spaces: Require an [event proposal](https://zostel.typeform.com/to/LgcBfa0M) detailing the event type, duration, and expected attendees.
 
 Visitor Registration:
 

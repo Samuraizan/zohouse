@@ -112,7 +112,7 @@ Discount Details:
 
 * Accommodation: A flat 10% discount applies to all bookings (e.g., dorms, private rooms, or long-term stays) at any Zo World property, reducing costs for nomads and founders.
 
-- Event Access: Founder Members enjoy free or discounted entry to Zo House events (e.g., mixers, workshops).
+- Event Access: Founder Members enjoy free entry to Zo House events (e.g., mixers, workshops).
 
 Additional Perks:
 
@@ -141,10 +141,6 @@ Process:
 * The HQ team reviews requests within 48 hours, considering factors like occupancy rates, event schedules, and member status (e.g., Founder Members may receive priority).
 * Approved discounts typically range from 10–20% for stays over 7 days.
 
-Examples:
-
-* A 14-day stay at Zo House Bangalore might receive a 15% discount if approved, reducing a 28,000 INR stay to 23,800 INR.
-
 Note: Discounts are not guaranteed and depend on the property’s capacity and operational needs. Founder Members should highlight their NFT status in requests to expedite approval.
 
 </details>
@@ -163,17 +159,17 @@ Access Details:
 
 Premium Areas:
 
-* Studio: Available for creative work (e.g., recording, design) at 1000 INR per hour.
-* Workstations: Bookable for focused work at 800 INR per day (8 hours).
+* Studio: Book through [form](https://zostel.typeform.com/to/LgcBfa0M).
+* Workstations: Bookable through contacting House Captain.
 
 - Degen Lounge: Exclusive to Founder Members or event-specific access (e.g., during hackathons or mixers). Non-Founders can access it by booking a private room at Zo House.
 
-* Event Spaces: Require an event proposal form submitted via the Zo App or to the House Captain, detailing the event type, duration, and expected attendees.
+* Event Spaces: Require an [event proposal](https://zostel.typeform.com/to/LgcBfa0M) detailing the event type, duration, and expected attendees.
 
 Visitor Registration:
 
-* Visitors must be invited by a Founder Member and registered via the visitor form.
-* Unregistered visitors are not permitted beyond the reception area.
+* Visitors must be invited by a Founder Member and registered via the [visitor form.](https://zostel.typeform.com/wtfxzovisitor)
+* Unregistered visitors are not permitted.
 
 Note: Access to premium areas is subject to availability, with Founder Members receiving priority. Non-Founders should book in advance to secure spaces.
 
@@ -187,22 +183,7 @@ Contact the House Captain via Telegram for registration or booking assistance.\
 <summary>5. If Visitors Want to Use a Particular Space, What Are the Charges for That Space, Such as the Studio or Work Tables?</summary>
 
 Question: What are the charges for visitors to use specific spaces like the Studio or Work Tables?\
-\
-Visitors and non-Founder residents can book premium spaces at the following rates:
-
-* Studio: 1000 INR per hour, ideal for creative projects like podcast recording or design work.
-* Workstations: 800 INR per day (8 hours), suitable for focused work or meetings.
-
-Booking Process:
-
-* Bookings are currently managed manually and recorded in an Excel sheet by the House Captain or community manager.
-* Submit requests via the Zo App (under “Book a Space”) or contact the House Captain via Telegram with your preferred date, time, and space.
-* Payment is processed onsite (UPI, card, or tokens accepted).
-* Confirmation is sent within 24 hours, subject to availability.
-
-Event Spaces:&#x20;
-
-For larger spaces (e.g., for workshops or hackathons), submit an event proposal form via the event proposal form, detailing the event’s purpose, size, and duration.
+Refer to the Pricing Doc.
 
 Note: Founder Members receive a 10% discount on these rates and priority booking. Prices may vary slightly by location (e.g., Zo House Bangalore vs. San Francisco).
 

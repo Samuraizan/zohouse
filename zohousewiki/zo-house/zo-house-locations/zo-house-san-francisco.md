@@ -79,20 +79,21 @@ Security Note: All access is logged onchain for transparency, and physical cards
 <summary>2. What is the Founder Members Discount?</summary>
 
 Question: What discounts are available for Founder Members?\
-\
-Founder Members receive a 10% discount on accommodation rates across Zo Houses, Zostels, and Zo Hotels. Long-term discounts are subject to approval by the HQ team on a case-by-case basis, tailored to the member’s stay duration and property availability.\
-\
-Discount Details:
+Founder Members enjoy exclusive privileges designed to support their nomadic lifestyle and community engagement across the Zo ecosystem\
+
+
+Founder Members Discount:
 
 * Accommodation: A flat 10% discount applies to all bookings (e.g., dorms, private rooms, or long-term stays) at any Zo World property, reducing costs for nomads and founders.
-
-- Event Access: Founder Members enjoy free or discounted entry to Zo House events (e.g., mixers, workshops).
+* Event Access: Founder Members enjoy free or discounted entry to Zo House events (e.g., mixers, workshops).
 
 Additional Perks:
 
 * 24/7 access to dedicated areas like the Studio and premium workspaces, ideal for creative projects or focused work.
 
-Eligibility:
+- Eligibility:
+
+
 
 * Must own a Founder NFT, verifiable onchain or through Zostel app
 * Users must merge their Zo Club and Zostel accounts using the same email address to link their Founder NFT to the Zostel Black Passport, ensuring seamless verification.
@@ -125,34 +126,32 @@ Note: Discounts are not guaranteed and depend on the property’s capacity and o
 
 <details>
 
-<summary>4. If Someone Is a Resident Guest but Not a Founder Member, Do They Have Access to All Areas of the Property, Including Studio, Flow Zone, Degen Lounge, etc.?</summary>
+<summary>4. Do Non-Founder Guests Have Access to All Areas of Zo House SF?</summary>
 
 Question: Do non-Founder resident guests have access to all property areas?\
-\
-Non-Founder visitors can access the property only if registered as friends of a Founder Member. Otherwise, they are limited to common spaces like Schelling Point and Multiverse. Premium areas like workstations and the Studio are bookable at a cost, and event spaces require an event proposal form.\
-\
-Access Details:
+Zo House SF does not offer on-site accommodations. Residential apartments are located in a separate building and are exclusively available to Founder Members.\
+Non-Founder guests visiting Zo House SF have limited access to the property. While they’re welcome in shared community and event spaces, premium zones such as the Studio, Flow Zone, Bored Room, and Degen Lounge are restricted unless booked separately or accessed through a Founder Member.\
+Access Breakdown – Zo House SF\
 
-* Common Spaces: Schelling Point (a social hub for casual interaction) and Multiverse (a collaborative lounge) are open to all registered visitors, fostering community engagement.
 
-Premium Areas:
+Accessible Spaces for Non-Founders:
 
-* Studio: Available for creative work (e.g., recording, design) at 1000 INR per hour.
-* Workstations: Bookable for focused work at 800 INR per day (8 hours).
+* Schelling Point – A casual social zone for conversation, collaboration, and events.
+* Multiverse Lounge – An open, flexible space designed for casual coworking and community connection.
 
-- Degen Lounge: Exclusive to Founder Members or event-specific access (e.g., during hackathons or mixers). Non-Founders can access it by booking a private room at Zo House.
+Restricted / Premium Areas:
 
-* Event Spaces: Require an event proposal form submitted via the Zo App or to the House Captain, detailing the event type, duration, and expected attendees.
+* Studio – For content creation and creative use (e.g., podcasts, design), available via separate booking.
+* Flow Zone – Dedicated workstations for deep focus, bookable by the day.
+* Bored Room – Meeting room accessible only by Founder Members or with a pre-approved booking.
+* Degen Lounge – Reserved for Founder Members or accessible during specific events (e.g., hackathons, mixers) or via private room bookings by Founders.\
+  Visitor Policy
 
-Visitor Registration:
+All visitors must be registered in advance before entering the property.
 
-* Visitors must be invited by a Founder Member and registered via the visitor form.
-* Unregistered visitors are not permitted beyond the reception area.
+Unregistered visitors will not be permitted beyond the entrance area.
 
-Note: Access to premium areas is subject to availability, with Founder Members receiving priority. Non-Founders should book in advance to secure spaces.
-
-Contact the House Captain via Telegram for registration or booking assistance.\
-
+Non-Founder visitors must either be invited by a Founder Member or attend a public/open community event.
 
 </details>
 
@@ -162,23 +161,7 @@ Contact the House Captain via Telegram for registration or booking assistance.\
 
 Question: What are the charges for visitors to use specific spaces like the Studio or Work Tables?\
 \
-Visitors and non-Founder residents can book premium spaces at the following rates:
-
-* Studio: 1000 INR per hour, ideal for creative projects like podcast recording or design work.
-* Workstations: 800 INR per day (8 hours), suitable for focused work or meetings.
-
-Booking Process:
-
-* Bookings are currently managed manually and recorded in an Excel sheet by the House Captain or community manager.
-* Submit requests via the Zo App (under “Book a Space”) or contact the House Captain via Telegram with your preferred date, time, and space.
-* Payment is processed onsite (UPI, card, or tokens accepted).
-* Confirmation is sent within 24 hours, subject to availability.
-
-Event Spaces:&#x20;
-
-For larger spaces (e.g., for workshops or hackathons), submit an event proposal form via the event proposal form, detailing the event’s purpose, size, and duration.
-
-Note: Founder Members receive a 10% discount on these rates and priority booking. Prices may vary slightly by location (e.g., Zo House Bangalore vs. San Francisco).
+Refer to the pricing doc: [Zo House SF Pricing](https://jealous-brass-35b.notion.site/Zo-House-SF-Pricing-2249fbf32f02801b8c0fdf3663c99524)&#x20;
 
 </details>
 
@@ -187,105 +170,24 @@ Note: Founder Members receive a 10% discount on these rates and priority booking
 <summary>6. Can Anyone Use or Enter the Kitchen?</summary>
 
 Question: Who can access the kitchen?\
-\
-Only residents and Founder Members can access the kitchen, which is monitored by cameras to ensure hygiene and compliance with house rules.\
-\
-Access Rules:
 
-* Residents: Can use shared kitchen in Zo Houses for self-service meal preparation, following guidelines (e.g., clean after use, no cooking after 10 PM).
-* Founder Members: Have priority access, including for community events (e.g., cooking workshops), and can schedule kitchen use by informing the House captain in advance.
-* Visitors: Are not permitted in the kitchen unless approved for specific events, coordinated by the House Captain.
 
-Monitoring:
+The kitchen is open to all active Founder Members. Visitors and non-members are not permitted to use or enter the kitchen unless explicitly approved for a specific event.
 
-* Cameras ensure compliance with hygiene standards and prevent unauthorised access.
-* Violations e.g., leaving dishes unwashed) may result in a warning or restricted kitchen access.
+Community Guidelines:
 
-- Note: Residents and Founder Members must follow house rules. For event-related kitchen use, submit a request to the House Captain at least 48 hours in advance.
+* Store food and condiments neatly in the fridge.
+* Clean up after use — all dishes must be placed in the dishwasher.
+* Be mindful of shared space and avoid crowding during peak hours.
+* No heavy cooking or open-flame use.
 
+Monitoring & Hygiene
+
+The kitchen is monitored by cameras for safety and hygiene compliance.
+
+Event Use\
+Founder Members may host community meals or cooking sessions in the kitchen. All event-based use must be approved by the House Captain at least 48 hours in advance.\
 Contact the House Captain via Telegram for special kitchen access requests.\
-
-
-</details>
-
-<details>
-
-<summary>7. Do We Offer Room Service, or Is It Self-Service Like Hostels?</summary>
-
-Question: Is room service available, or is it self-service?\
-\
-Zo World properties operate on a self-service model, but users can order food via QR codes placed throughout the house, processed through Fudr, with notifications sent to the kitchen team.
-
-Self-Service Model:
-
-* Guests are responsible for tasks like tidying rooms and maintaining shared spaces, aligning with Zo World’s community-driven ethos.
-* Communal areas (e.g., lounges, dining areas) are cleaned by staff, but residents are encouraged to contribute to upkeep.
-
-Food Ordering:
-
-* QR codes are available for food orders via Fudr, which sends a notif to the kitchen team to then prepare the order and deliver at where the order was placed inside the house.
-* Orders are processed digitally, and the kitchen team is notified instantly to prepare meals, ensuring efficient service for residents and Founder Members.
-* This system supports the nomadic lifestyle by offering convenient dining options without full-service room service, maintaining the community’s self-service vibe.
-
-- Note: Room service (e.g., bed-making, towel replacement) is available at Zo Houses at no cost.
-
-For special dining requests, contact the House Captain via Telegram.\
-
-
-</details>
-
-<details>
-
-<summary>8. Is Early Check-In Allowed, and Are There Any Charges for Late Check-Out?</summary>
-
-Question: Are early check-in or late check-out permitted, and are there fees?\
-\
-Check-in is 1:00 PM and Check out is 11:00 PM.\
-Early check-in and late check-out requests are reviewed by the HQ team and Zobu team on a case-by-case basis. Special requests are generally not permitted unless approved due to operational constraints.\
-\
-Early Check-In:
-
-* Standard check-in is 1 PM, but early access (e.g., from 11 AM) may be approved if rooms are available.
-* Requests must be submitted to the House Captain/HQ Team at least 24 hours in advance.
-* Charges (e.g., 500–1000 INR/hour, capped at 50% of the nightly rate) apply for non-Founders; Founder Members may receive waived fees, subject to approval.
-
-Late Check-Out:
-
-* Standard check-out is 11 AM, with late check-out (e.g., until 12:30 PM) considered if rooms are available.
-* Non-Founders may incur fees (e.g., 750–1250 INR/hour), while Founder Members may receive free extensions until 1 PM, pending HQ approval.
-* Beyond 1 PM, a half-day rate may apply.
-
-- Process: Submit requests to House Captain/HQ Team. Approval depends on occupancy and event schedules, with Founder Members receiving priority.
-- Note: Early check-in and late check-out are not guaranteed, especially during peak periods (e.g., hackathons or major events).
-
-Contact the HQ team via the Zo App for special requests.\
-
-
-</details>
-
-<details>
-
-<summary>9. Do We Have Laundry Service Available, and If Yes, Is It Chargeable or Complimentary?</summary>
-
-Question: Is laundry service available, and what are the costs?\
-\
-Laundry services are available at Zo World properties to support travelers and residents:
-
-* Washing and Drying: 250 INR per load, covering both washing and drying for convenience.
-* Ironing: 25 INR per clothing item, ensuring a professional appearance for events or work.
-
-Availability:
-
-* Zo Houses: Offer professional laundry services, with self-service machines at select locations
-
-Process:
-
-* Self-service machines require prior notice of house captain to avoid conflicts, with instructions to use posted at the property.
-* Founder Members receive one complimentary self-service load per month at Zo Houses. Rest is pay as you go.
-
-- Note: Guests must follow machine usage guidelines to avoid damage. Misuse may incur a repair fee (e.g., 1000–2000 INR, depending on the issue).
-
-Contact the House Captain for laundry scheduling or issues.\
 
 
 </details>
@@ -343,10 +245,8 @@ Verification:
 
 - Secondary Market: Founder NFTs may be available on other platforms (e.g., OpenSea), but buyers must verify authenticity via the Base network to avoid fraud.
 
-Benefits:
-
-https://zo.xyz/membership\
-
+Benefits:\
+Check our [membership website](https://zo.xyz/membership)&#x20;
 
 * Note: With only 500+ Founder NFTs in circulation, they are exclusive and subject to market-driven price fluctuations.
 
