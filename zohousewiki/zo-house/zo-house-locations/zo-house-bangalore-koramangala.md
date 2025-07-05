@@ -15,6 +15,10 @@ Welcome to the official BLRxZo Wiki – your **operational toolkit and cultural 
 
 ### Socials & Media
 
+
+
+* Public telegram group: [https://t.me/BLRxZo](https://t.me/SFOxZo)
+* x.com: [https://x.com/SFOxZo](https://x.com/SFOxZo)
 * [Instagram – @zohouseofficial](https://www.instagram.com/zohouseofficial/)
 * [YouTube – Zo House Playlist](https://www.youtube.com/playlist?list=PLtbSwFnJdjOE_jNVYxM_eAj6KfWOZbDIO)
 * [BLRxZo Map PDF](https://drive.google.com/file/d/1AoayMkLPj5QWz_hFawVHAi1M0RyfufRf/view?usp=drive_link)
@@ -23,7 +27,7 @@ Welcome to the official BLRxZo Wiki – your **operational toolkit and cultural 
 
 * **Visitor Registration**: [BLRxZo Visitor Form](https://zostel.typeform.com/blrxzovisitor)
 * **House Tour**: [Notion Tour Guide](https://samuraidojo.notion.site/Zo-House-Bangalore-Koramangala-Tour-22244d23767a80058890f74b54245218?source=copy_link)
-* **Events Calendar**: [Lu.ma Events](https://lu.ma/blrxzo)
+* **Events Calendar**: [Events](https://lu.ma/blrxzo)
 * **Event Proposals**: [Typeform Submission](https://zostel.typeform.com/to/LgcBfa0M)
 * **PnL & Invoices**: [Google Sheet](https://docs.google.com/spreadsheets/d/1VKZKfKrfF2qNEnqvuttQwdNDsqueUUtGE0pzq8wnL2Y/edit?usp=drive_link)
 

@@ -9,9 +9,10 @@ Embark on an extraordinary life design journey at Zo House Whitefield, where inn
 
 ### Socials & Media
 
+* Public telegram group: [https://t.me/BLRxZo](https://t.me/SFOxZo)
+* x.com: [https://x.com/WTFxZo](https://x.com/SFOxZo)
 * [Instagram – @zohouseofficial](https://www.instagram.com/zohouseofficial/)
 * [YouTube – Zo House Playlist](https://www.youtube.com/playlist?list=PLtbSwFnJdjOE_jNVYxM_eAj6KfWOZbDIO)
-* [BLRxZo Map PDF](https://zostel.slack.com/files/U07LDUKH5BQ/F094G0GTRUZ/blrxzo_map.pdf)
 
 ### Operations
 
