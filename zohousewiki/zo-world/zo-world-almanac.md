@@ -35,7 +35,7 @@ Zo World
 ### [Founder NFTs](https://opensea.io/collection/founders-of-zo-world)
 
 Founder NFTs are exclusive memberships granting lifetime access to all Zo Houses, VIP event participation, community governance, and fractional ownership opportunities.\
-
+[Token Gated Founders Chat](https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxNzk2Nzg1MTU5)
 
 ### [Citizen NFTs](https://opensea.io/collection/citizens-of-zo-world)
 
