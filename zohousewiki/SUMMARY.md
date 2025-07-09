@@ -39,6 +39,7 @@
     * [📍 Storage](zo-house/zo-house-spaces/storage.md)
   * [🏡 Zo House Modes](zo-house/zo-house-modes.md)
   * [❓ How to Build a Zo House](zo-house/how-to-build-a-zo-house.md)
+  * [Rules of the House](zo-house/rules-of-the-house.md)
 * [👑 Founders](founders.md)
 * [🎭 Cultures](cultures/README.md)
   * [🎨 Zo Studio](zo-nodes/zo-studio.md)
