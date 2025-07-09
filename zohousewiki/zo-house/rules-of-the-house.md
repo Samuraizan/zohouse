@@ -1,5 +1,6 @@
 ---
 description: Zo House Rules
+icon: clipboard-list
 ---
 
 # Rules of the House
