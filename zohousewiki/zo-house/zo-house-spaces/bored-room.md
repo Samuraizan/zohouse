@@ -6,7 +6,7 @@ coverY: 0
 
 # 📍 Bored Room
 
-→ Inspired by the Bored Ape Yatch Club Collection. Zo Houses have a mix of Meeting rooms & Private Rooms themed in Bored ape assests.&#x20;
+→ Inspired by the Bored Ape Yacht Club Collection. Zo Houses have a mix of Meeting rooms & Private Rooms themed in Bored ape assets.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-07-03 at 2.21.20 PM.png" alt=""><figcaption><p>Zo House SF</p></figcaption></figure>
 
